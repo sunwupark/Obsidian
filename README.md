@@ -1,0 +1,2 @@
+# Obsidian
+Sunwu's Note~
