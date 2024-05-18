@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0796ec578f58b945",
@@ -161,6 +162,12 @@
   },
   "active": "78bec5721cbbe9bf",
   "lastOpenFiles": [
+    "스크린샷 2024-05-19 오전 3.10.54.png",
+    "스크린샷 2024-05-19 오전 3.06.59.png",
+    "스크린샷 2024-05-19 오전 2.54.29.png",
+    "스크린샷 2024-05-19 오전 2.40.12.png",
+    "스크린샷 2024-05-19 오전 2.18.31.png",
+    "스크린샷 2024-05-19 오전 2.09.20.png",
     "Operating System/Chapter 02.md",
     "Operating System/Chapter 01.md",
     "Kafka/Kafka Definition.md",
