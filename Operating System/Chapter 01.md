@@ -128,3 +128,22 @@ Clusters can also be used to provide high-performance computing by running appli
 To provide this shared access, the system must also supply access control and locking to ensure that no conflicting operations occur. This function, commonly known as a distributed lock manager (DLM), is included in some cluster technology.
 
 Other forms of clusters include parallel clusters and clusters over a wide-area network. Parallel clusters allow multiple computers to access the same data on shared storage. Clustering technology is changing rapidly, and some clusters can support thousands of systems.
+
+## 1.4 Operating system Operations
+
+The bootstrap program's main function is to locate and load the operating system kernel into memory. Once loaded, the kernel provides system services.
+
+Additional system programs, like systemd on Linux, are loaded at boot time to become daemons and run continuously alongside the kernel.
+
+When the system finishes booting, it goes into an idle state waiting for events to happen. These events can be hardware interrupts (introduced earlier) or software-generated interrupts (traps/exceptions). Traps can be caused by errors or user program requests for system services via system calls.
+
+### 1.4.1 Multiprogramming and Multitasking
+
+Multiprogramming and multitasking are techniques that allow a computer system to run multiple programs at the same time. This improves CPU utilization and keeps users satisfied by ensuring the CPU is always busy.
+
+In multiprogramming, the operating system keeps several programs in memory and switches between them whenever one program needs to wait for I/O. This is similar to how a lawyer might juggle multiple cases to avoid being idle.
+
+Multitasking is an extension of multiprogramming where the CPU switches between processes more frequently, giving the user the illusion that multiple programs are running concurrently. This is useful because user input and output (like typing) happen much slower than computer operations.
+
+Both multiprogramming and multitasking require memory management to keep track of multiple programs in memory and CPU scheduling to decide which process should run next. Additionally, these systems need to protect resources from being improperly used by different programs.
+
