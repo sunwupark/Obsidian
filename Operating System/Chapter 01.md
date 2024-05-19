@@ -58,13 +58,37 @@ Operating System - government: performs no useful function by itself.
 "Interrupt-request line" 
 
 ![[스크린샷 2024-05-19 오전 2.40.12.png]]
+## **I/O 수행 과정**
+1. I/O 활동을 시작하기 위해 device driver는 device controller에 적절한 레지스터를 로드함
+2. device controller는 레지스터의 콘텐츠를 확인하고 무슨 액션을 취할지 결정함
+3. 컨트롤러는 디바이스 → 로컬 버퍼로 데이터 옮기기 시작
+4. 데이터 다 옮긴 후 디바이스 컨트롤러는 디바이스 드라이버에게 끝났다고 알림
+5. 디바이스 드라이버는 OS의 다른 부분들에게 컨트롤 넘김
+    1. 이 때 데이터나 데이터 포인터를 리턴할 수 있음 (operation이 read인경우처럼)
+
+⇒ 이 때, 컨트롤러는 디바이스 드라이버한테 operation 끝났다고 어케 알림? ⇒ via **interrupt !**
+
+- 하드웨어 interrupt는 주로 **system bus**를 통해 일어남
+
+**Interrupt Implementation**
+
+- CPU는 instruction executions 끝날때마다 감지하는 **interrupt-request line**을 가짐
+- 여기에 시그널이 있다? → interrupt number 읽음 → interrupt vector의 인덱스로 씀 → interrupt-handler routine으로 점프 → 인덱스랑 연관된 주소에 있는 execution 시작 → handler는 바뀌는 상태들 저장
+- CPU들은 보통 interrupt request line 두 . 개가짐
+    1. nonmaskable interrupt
+        1. 복구 불가한 메모리 에러 같은 애들에 사용
+    2. maskable interrupt
+        1. 방해되면 안되는 critical instruction 돌리기 전에 CPU가 끌 수 있는 애들
+- **interrupt chaining**
+    - interrupt vector의 각 엘리먼트가 list of interrupt handlers를 포인팅 하는 구조
 
 ### 1.2.2 Storage Structure
 - CPU can load instructions only from memory
-- any progrmas must first be loaded into memory to run
+- any programs must first be loaded into memory to run
 
 - Main Memory commonly in DRAM(Dynamic random-access memory)
 - bootstramp program: first program to run on computer => loads OS
+	- volatile메모리에 올릴 수 없음
 - EEPROM - firmware 저장(잘 수정되지 않는 곳), static programs
 - basic unit of computer storage => bit
 - all forms of memory provide an array of bytes
@@ -77,6 +101,8 @@ But memory is too small to store and volatile => Secondary Storage, tertiary sto
 1. HDD (hard-disk drives)
 2. NVM(Non volatile memory devices)
 ![[스크린샷 2024-05-19 오전 2.54.29.png]]
+- CPU Register, Cache => SRAM
+- main memory => DRAM => 지속적으로 refresh refresh하는동안 데이터 못쓴다
 
 => top four levels => constructed using semi-conductor memory
 NVM - flash memory (smartphones, tablets) & long-term storage on laptops, desktops and servers(SSD)
@@ -84,6 +110,11 @@ NVM - flash memory (smartphones, tablets) & long-term storage on laptops, deskto
 when used for bulk data movement => DMA(Direct Memory Access=)
 - only one interrupt is generated per block => tell device driver that completed
 
+**폰노이만 구조**
+- memory에서 instruction fetch해오고 그걸 instruction registor에 저장
+- instruction은 디코드, 실행. 필요시 실행 결과 다시 메모리에 저장
+- 포인투:
+    - 메모리는 메모리 어드레스의 나열만 쭉 보고, 그게 어떻게 생성됐는지, 뭘 위한건지는 몰라도 됨
 ## 1.3 Computer-System Architecture
 A multiprocessor system is a computer system with multiple processors. 
 These processors share the computer bus and sometimes the clock, memory, and peripheral devices. 
@@ -99,9 +130,7 @@ Multicore systems have multiple cores on a single chip.
 
 Multicore systems are more efficient than SMP systems because on-chip communication is faster than between-chip communication. Additionally, multicore systems use less power than SMP systems.
 
-
-Most archi- tectures adopt this approach, combining local and shared caches, where local, lower-level caches are generally smaller and faster than higher-level shared
-
+Most architectures adopt this approach, combining local and shared caches, where local, lower-level caches are generally smaller and faster than higher-level shared
 
 ![[스크린샷 2024-05-19 오전 3.10.54.png]]
 
@@ -120,7 +149,8 @@ However, there is a performance penalty when a CPU needs to access memory from a
 
 A clustered system is a group of computers working together as a single unit. They are different from multiprocessor systems because they are individual systems connected together. Clustered systems are used to provide high-availability service, which means that the service will continue to function even if one or more systems fails. This is achieved by adding redundancy to the system.
 
-There are two ways to structure a clustered system: asymmetrically and symmetrically. Asymmetric clustering uses a hot-standby mode, where one machine monitors another machine. If the active machine fails, the hot-standby machine takes over. 
+There are two ways to structure a clustered system: asymmetrically and symmetrically. 
+Asymmetric clustering uses a hot-standby mode, where one machine monitors another machine. If the active machine fails, the hot-standby machine takes over. 
 Symmetric clustering uses all of the available computers in the cluster.
 
 Clusters can also be used to provide high-performance computing by running applications concurrently on all computers. This requires the application to be written specifically to take advantage of the cluster.
@@ -130,7 +160,6 @@ To provide this shared access, the system must also supply access control and lo
 Other forms of clusters include parallel clusters and clusters over a wide-area network. Parallel clusters allow multiple computers to access the same data on shared storage. Clustering technology is changing rapidly, and some clusters can support thousands of systems.
 
 ## 1.4 Operating system Operations
-
 The bootstrap program's main function is to locate and load the operating system kernel into memory. Once loaded, the kernel provides system services.
 
 Additional system programs, like systemd on Linux, are loaded at boot time to become daemons and run continuously alongside the kernel.
