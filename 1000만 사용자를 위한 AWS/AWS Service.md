@@ -5,9 +5,9 @@ Scale-in/Scale-out
 	 out: instance 개수를 늘린다
 	 in: instance 개수를 줄인다
 
-
+### [[Load Balancer]]
 [[NLB]]
-- 인증서를 박을 . 수있다
+- 인증서를 박을 수있다
 - 여기서 암호화를 하고 NLB가 얘를 복호화시켜준다!
 - 암호화에 대한 부담을 덜 수 있다!
 

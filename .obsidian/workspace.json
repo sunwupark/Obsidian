@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Chapter 01.md",
+                "file": "Load Balancing vs Reverse Proxy.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0796ec578f58b945",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System/Chapter 01.md",
+                "file": "Load Balancing vs Reverse Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System/Chapter 01.md",
+                "file": "Load Balancing vs Reverse Proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System/Chapter 01.md"
+                "file": "Load Balancing vs Reverse Proxy.md"
               }
             }
           }
@@ -148,12 +149,17 @@
   },
   "active": "78bec5721cbbe9bf",
   "lastOpenFiles": [
-    "device driver.md",
-    "Operating System/Chapter 01.md",
+    "ALB.md",
+    "Load Balancing vs Reverse Proxy.md",
+    "Pasted image 20240519214431.png",
+    "Load Balancer.md",
+    "NLB.md",
     "1000만 사용자를 위한 AWS/AWS Service.md",
+    "인증서를.md",
+    "Operating System/Chapter 01.md",
+    "device driver.md",
     "Untitled.canvas",
     "2024-05-19.md",
-    "NLB.md",
     "스크린샷 2024-05-19 오후 3.26.15.png",
     "스크린샷 2024-05-19 오전 10.22.40.png",
     "스크린샷 2024-05-19 오전 10.20.30.png",
@@ -165,7 +171,6 @@
     "1000만 사용자를 위한 AWS",
     "스크린샷 2024-05-19 오전 3.10.54.png",
     "스크린샷 2024-05-19 오전 3.06.59.png",
-    "스크린샷 2024-05-19 오전 2.54.29.png",
     "Operating System/Chapter 02.md",
     "Operating System",
     "README.md",
