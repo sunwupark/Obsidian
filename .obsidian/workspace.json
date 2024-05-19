@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000만 사용자를 위한 AWS/AWS Service.md",
+                "file": "Operating System/Chapter 01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000만 사용자를 위한 AWS/AWS Service.md",
+                "file": "Operating System/Chapter 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000만 사용자를 위한 AWS/AWS Service.md",
+                "file": "Operating System/Chapter 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000만 사용자를 위한 AWS/AWS Service.md"
+                "file": "Operating System/Chapter 01.md"
               }
             }
           }
@@ -148,24 +148,26 @@
   },
   "active": "78bec5721cbbe9bf",
   "lastOpenFiles": [
+    "device driver.md",
+    "Operating System/Chapter 01.md",
+    "1000만 사용자를 위한 AWS/AWS Service.md",
+    "Untitled.canvas",
+    "2024-05-19.md",
+    "NLB.md",
+    "스크린샷 2024-05-19 오후 3.26.15.png",
     "스크린샷 2024-05-19 오전 10.22.40.png",
     "스크린샷 2024-05-19 오전 10.20.30.png",
     "스크린샷 2024-05-19 오전 10.01.35.png",
     "스크린샷 2024-05-19 오전 9.57.44.png",
     "스크린샷 2024-05-19 오전 9.52.48.png",
     "스크린샷 2024-05-19 오전 9.40.14.png",
-    "Operating System/Chapter 01.md",
     "Kafka/Kafka Definition.md",
-    "1000만 사용자를 위한 AWS/AWS Service.md",
     "1000만 사용자를 위한 AWS",
     "스크린샷 2024-05-19 오전 3.10.54.png",
     "스크린샷 2024-05-19 오전 3.06.59.png",
     "스크린샷 2024-05-19 오전 2.54.29.png",
-    "스크린샷 2024-05-19 오전 2.40.12.png",
-    "스크린샷 2024-05-19 오전 2.18.31.png",
     "Operating System/Chapter 02.md",
     "Operating System",
-    "Untitled.canvas",
     "README.md",
     "Kafka"
   ]
