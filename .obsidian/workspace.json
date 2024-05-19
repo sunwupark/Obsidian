@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0796ec578f58b945",
@@ -149,9 +148,13 @@
   },
   "active": "78bec5721cbbe9bf",
   "lastOpenFiles": [
-    "Database Federation?.md",
-    "1000만 사용자를 위한 AWS/AWS Service.md",
     "ALB.md",
+    "1000만 사용자를 위한 AWS/AWS Service.md",
+    "ElasticSearch/ElasticSearch.md",
+    "Sharding.md",
+    "Segment.md",
+    "ElasticSearch",
+    "Database Federation?.md",
     "Load Balancing vs Reverse Proxy.md",
     "NLB.md",
     "Load Balancer.md",

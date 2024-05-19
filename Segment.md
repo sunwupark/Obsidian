@@ -1,0 +1,1 @@
+불변성(Immutable)
