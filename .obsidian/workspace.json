@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Load Balancing vs Reverse Proxy.md",
+                "file": "1000만 사용자를 위한 AWS/AWS Service.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Load Balancing vs Reverse Proxy.md",
+                "file": "1000만 사용자를 위한 AWS/AWS Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Load Balancing vs Reverse Proxy.md",
+                "file": "1000만 사용자를 위한 AWS/AWS Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Load Balancing vs Reverse Proxy.md"
+                "file": "1000만 사용자를 위한 AWS/AWS Service.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "78bec5721cbbe9bf",
   "lastOpenFiles": [
+    "Load Balancer.md",
+    "1000만 사용자를 위한 AWS/AWS Service.md",
+    "NLB.md",
     "ALB.md",
     "Load Balancing vs Reverse Proxy.md",
     "Pasted image 20240519214431.png",
-    "Load Balancer.md",
-    "NLB.md",
-    "1000만 사용자를 위한 AWS/AWS Service.md",
     "인증서를.md",
     "Operating System/Chapter 01.md",
     "device driver.md",
