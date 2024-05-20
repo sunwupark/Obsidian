@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Cargo.md",
+                "file": "RaspberryPi/Swap Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Cargo.md",
+                "file": "RaspberryPi/Swap Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Cargo.md",
+                "file": "RaspberryPi/Swap Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Cargo.md"
+                "file": "RaspberryPi/Swap Memory.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "78bec5721cbbe9bf",
   "lastOpenFiles": [
-    "수업/SW 개발팀 - LG전자 이춘식.md",
     "Rust/Cargo.md",
+    "RaspberryPi/Swap Memory.md",
+    "RaspberryPi",
+    "수업/SW 개발팀 - LG전자 이춘식.md",
     "Rust/Introduction.md",
     "Rust",
     "1000만 사용자를 위한 AWS/AWS Service.md",
