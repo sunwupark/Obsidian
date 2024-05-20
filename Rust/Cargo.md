@@ -73,3 +73,19 @@ This code contains a lot of information, so let’s go over it line by line. To 
 let mut guess = String::new();
 ```
 
+ - In Rust, variables are immutable by default, meaning once we give the variable a value, the value won’t change.
+-  To make a variable mutable, we add `mut` before the variable name:
+
+```
+let apples = 5; // immutable
+let mut bananas = 5; // mutable
+```
+
+
+## Receiving User Input
+
+```
+io::stdin() 
+	.read_line(&mut guess)
+```
+
