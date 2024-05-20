@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000만 사용자를 위한 AWS/AWS Service.md",
+                "file": "수업/SW 개발팀.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000만 사용자를 위한 AWS/AWS Service.md",
+                "file": "수업/SW 개발팀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000만 사용자를 위한 AWS/AWS Service.md",
+                "file": "수업/SW 개발팀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000만 사용자를 위한 AWS/AWS Service.md"
+                "file": "수업/SW 개발팀.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "78bec5721cbbe9bf",
   "lastOpenFiles": [
-    "ALB.md",
     "1000만 사용자를 위한 AWS/AWS Service.md",
+    "수업/SW 개발팀.md",
+    "수업",
+    "ALB.md",
     "ElasticSearch/ElasticSearch.md",
     "Sharding.md",
     "Segment.md",
