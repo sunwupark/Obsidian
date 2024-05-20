@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0796ec578f58b945",
@@ -149,8 +148,8 @@
   },
   "active": "78bec5721cbbe9bf",
   "lastOpenFiles": [
-    "Rust/Cargo.md",
     "수업/SW 개발팀 - LG전자 이춘식.md",
+    "Rust/Cargo.md",
     "Rust/Introduction.md",
     "Rust",
     "1000만 사용자를 위한 AWS/AWS Service.md",

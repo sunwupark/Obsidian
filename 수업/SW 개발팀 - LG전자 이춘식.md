@@ -83,3 +83,18 @@ https://www.ciklum.com/resources/blog/top-10-software-development-trends-for-202
 
 너가 팀에 질문해라
 조직문화가 궁금하다!! 역으로 질문하는 것이 오히려 면접자한테 플러스가 될 수 있다!! 만약에 창업한다고 하면 함께 성장하는 문화로 만들어야한다!!
+
+## 기술 부채
+- 부채는 나쁜 것이 아니다!
+- 성공을 위한 의사 결정, 의사 결정에 따른 책임과 위협
+- 기술 부채를 갚는 방법
+	- Refactoring, Re-architecture, Code Review, Unit Test, 문서화
+- Developor Experience (DevEx)
+	- 개발자가 어떤 경험을 가지느냐
+		https://queue.acm.org/detail.cfm?id=3595878
+- Just Enough Software Architecture
+- 일주일에 13.5시간 정도 
+	- 얼마나 시간을 쓸까?
+- Agile 선언문
+	- https://yohanstory.tistory.com/232
+
