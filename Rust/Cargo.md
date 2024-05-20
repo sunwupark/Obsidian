@@ -67,6 +67,9 @@ This code contains a lot of information, so let’s go over it line by line. To 
 
 `use std::io;`
 
+TODO 
+mutuable , immutable => memory?
+
 ## Storing Values with Variables
 
 ```
