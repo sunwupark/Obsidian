@@ -11,8 +11,12 @@
             "id": "8ff87174144bcd63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DeepDiveComparison/Go언의 Garbage Collection.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DeepDiveComparison/Go언의 Garbage Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DeepDiveComparison/Go언의 Garbage Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DeepDiveComparison/Go언의 Garbage Collection.md"
+              }
             }
           }
         ]
@@ -138,10 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ff87174144bcd63",
+  "active": "0ae4fcda60711fcd",
   "lastOpenFiles": [
-    "1000만 사용자를 위한 AWS/AWS Service.md",
     "MeMe/5.21 회의.md",
+    "스크린샷 2024-05-19 오전 2.54.29.png",
+    "SingSongSangSong/Crawler.md",
+    "Load Balancing vs Reverse Proxy.md",
+    "SingSongSangSong",
+    "Untitled",
+    "ALB.md",
+    "1000만 사용자를 위한 AWS/AWS Service.md",
+    "Load Balancer.md",
+    "DeepDiveComparison/Go언의 Garbage Collection.md",
+    "DeepDiveComparison",
     "RaspberryPi/Swap Memory.md",
     "MeMe",
     "RaspberryPi/Spring Boot Application.yml in Docker-Compose.md",
@@ -151,15 +168,12 @@
     "RaspberryPi",
     "Rust",
     "수업",
-    "ALB.md",
     "ElasticSearch/ElasticSearch.md",
     "Sharding.md",
     "Segment.md",
     "ElasticSearch",
     "Database Federation?.md",
-    "Load Balancing vs Reverse Proxy.md",
     "NLB.md",
-    "Load Balancer.md",
     "Pasted image 20240519214431.png",
     "인증서를.md",
     "Operating System/Chapter 01.md",
@@ -176,10 +190,8 @@
     "Kafka/Kafka Definition.md",
     "1000만 사용자를 위한 AWS",
     "스크린샷 2024-05-19 오전 3.10.54.png",
-    "스크린샷 2024-05-19 오전 3.06.59.png",
     "Operating System/Chapter 02.md",
     "Operating System",
-    "README.md",
-    "Kafka"
+    "README.md"
   ]
 }
