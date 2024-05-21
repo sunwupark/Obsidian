@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/캡디 프로젝트.md",
+                "file": "SingSongSangSong/Crawler.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/캡디 프로젝트.md",
+                "file": "SingSongSangSong/Crawler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/캡디 프로젝트.md",
+                "file": "SingSongSangSong/Crawler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/캡디 프로젝트.md"
+                "file": "SingSongSangSong/Crawler.md"
               }
             }
           }
@@ -148,24 +148,26 @@
   },
   "active": "8ff87174144bcd63",
   "lastOpenFiles": [
-    "Rust/Cargo.md",
     "Rust/캡디 프로젝트.md",
+    "Rust/Introduction.md",
+    "Rust/Cargo.md",
+    "RaspberryPi/Swap Memory.md",
+    "RaspberryPi/Spring Boot Application.yml in Docker-Compose.md",
     "DeepDiveComparison/Go언의 Garbage Collection.md",
+    "스크린샷 2024-05-21 오후 11.31.58.png",
     "MeMe/5.21 회의.md",
-    "스크린샷 2024-05-19 오전 2.54.29.png",
+    "1000만 사용자를 위한 AWS/AWS Service.md",
+    "NLB.md",
+    "수업/SW 개발팀 - LG전자 이춘식.md",
     "SingSongSangSong/Crawler.md",
+    "스크린샷 2024-05-19 오전 2.54.29.png",
     "Load Balancing vs Reverse Proxy.md",
     "SingSongSangSong",
     "Untitled",
     "ALB.md",
-    "1000만 사용자를 위한 AWS/AWS Service.md",
     "Load Balancer.md",
     "DeepDiveComparison",
-    "RaspberryPi/Swap Memory.md",
     "MeMe",
-    "RaspberryPi/Spring Boot Application.yml in Docker-Compose.md",
-    "Rust/Introduction.md",
-    "수업/SW 개발팀 - LG전자 이춘식.md",
     "RaspberryPi",
     "Rust",
     "수업",
@@ -174,7 +176,6 @@
     "Segment.md",
     "ElasticSearch",
     "Database Federation?.md",
-    "NLB.md",
     "Pasted image 20240519214431.png",
     "인증서를.md",
     "Operating System/Chapter 01.md",
@@ -190,7 +191,6 @@
     "스크린샷 2024-05-19 오전 9.40.14.png",
     "Kafka/Kafka Definition.md",
     "1000만 사용자를 위한 AWS",
-    "스크린샷 2024-05-19 오전 3.10.54.png",
     "Operating System/Chapter 02.md",
     "Operating System",
     "README.md"
