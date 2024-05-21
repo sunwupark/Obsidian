@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepDiveComparison/Go언의 Garbage Collection.md",
+                "file": "Rust/캡디 프로젝트.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepDiveComparison/Go언의 Garbage Collection.md",
+                "file": "Rust/캡디 프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepDiveComparison/Go언의 Garbage Collection.md",
+                "file": "Rust/캡디 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepDiveComparison/Go언의 Garbage Collection.md"
+                "file": "Rust/캡디 프로젝트.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ae4fcda60711fcd",
+  "active": "8ff87174144bcd63",
   "lastOpenFiles": [
+    "Rust/Cargo.md",
+    "Rust/캡디 프로젝트.md",
+    "DeepDiveComparison/Go언의 Garbage Collection.md",
     "MeMe/5.21 회의.md",
     "스크린샷 2024-05-19 오전 2.54.29.png",
     "SingSongSangSong/Crawler.md",
@@ -157,12 +160,10 @@
     "ALB.md",
     "1000만 사용자를 위한 AWS/AWS Service.md",
     "Load Balancer.md",
-    "DeepDiveComparison/Go언의 Garbage Collection.md",
     "DeepDiveComparison",
     "RaspberryPi/Swap Memory.md",
     "MeMe",
     "RaspberryPi/Spring Boot Application.yml in Docker-Compose.md",
-    "Rust/Cargo.md",
     "Rust/Introduction.md",
     "수업/SW 개발팀 - LG전자 이춘식.md",
     "RaspberryPi",
