@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "308fde096a571c27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go Memory Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "323692801b75decb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Garbage Collection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepDiveComparison/Garbage Collection of Programming Languages.md",
+                "file": "Go Memory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepDiveComparison/Garbage Collection of Programming Languages.md",
+                "file": "Go Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepDiveComparison/Garbage Collection of Programming Languages.md"
+                "file": "Go Memory Management.md"
               }
             }
           }
@@ -146,15 +171,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ff87174144bcd63",
+  "active": "308fde096a571c27",
   "lastOpenFiles": [
-    "DeepDiveComparison/Go언어.md",
     "DeepDiveComparison/Garbage Collection of Programming Languages.md",
-    "스크린샷 2024-05-22 오후 3.20.28.png",
-    "스크린샷 2024-05-22 오후 3.20.16.png",
-    "Pasted image 20240522150823.png",
-    "Pasted image 20240522150640.png",
-    "스크린샷 2024-05-22 오후 3.05.22.png",
+    "Go Memory Management.md",
+    "Java Garbage Collection.md",
+    "Pasted image 20240522165022.png",
+    "스크린샷 2024-05-22 오후 4.48.05.png",
+    "스크린샷 2024-05-22 오후 4.47.02.png",
+    "Pasted image 20240522164325.png",
+    "Pasted image 20240522164146.png",
+    "Pasted image 20240522163241.png",
+    "스크린샷 2024-05-22 오후 4.30.21.png",
+    "Pasted image 20240522162950.png",
+    "Pasted image 20240522162854.png",
+    "Eden.md",
+    "Pasted image 20240522161722.png",
+    "DeepDiveComparison/Go언어.md",
     "ElasticSearch/ElasticSearch.md",
     "SingSongSangSong/Crawler.md",
     "Rust/캡디 프로젝트.md",
@@ -164,11 +197,9 @@
     "MeMe/5.21 회의.md",
     "Kafka/Kafka Definition.md",
     "Rust/Introduction.md",
-    "스크린샷 2024-05-21 오후 11.31.58.png",
     "1000만 사용자를 위한 AWS/AWS Service.md",
     "NLB.md",
     "수업/SW 개발팀 - LG전자 이춘식.md",
-    "스크린샷 2024-05-19 오전 2.54.29.png",
     "Load Balancing vs Reverse Proxy.md",
     "SingSongSangSong",
     "Untitled",
@@ -183,17 +214,11 @@
     "Segment.md",
     "ElasticSearch",
     "Database Federation?.md",
-    "Pasted image 20240519214431.png",
     "인증서를.md",
     "Operating System/Chapter 01.md",
     "device driver.md",
     "Untitled.canvas",
-    "2024-05-19.md",
-    "스크린샷 2024-05-19 오후 3.26.15.png",
-    "스크린샷 2024-05-19 오전 10.22.40.png",
     "1000만 사용자를 위한 AWS",
-    "Operating System/Chapter 02.md",
-    "Operating System",
-    "README.md"
+    "Operating System"
   ]
 }
