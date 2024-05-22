@@ -65,11 +65,15 @@ JVM에서는 빠른 메모리 할당을 위해 두가지 기술을 사용한다
 ## Old 영역에 대한 GC
 ![[Pasted image 20240522164146.png]]
 
-알고리즘: Mark & Compact
+알고리즘: Mark-Sweep-Compaction
 	객체들의 참조를 확인하면서 참조가 연결되지 않은 객체를 표시! 작업이 끝나면 삭제
 	- 속도가 매우 느리다! Stop-the-world현상이 일어난다! 
 
-1. Parallel GC
+1. Serial GC
+	1. Old영역의 GC는  Mark-Sweep-Compaction
+	2. Old영역에 살아있는 객체를 식별(Mark)한 뒤 Heap의 앞부분부터 확인하며 살아 있는 것만 남긴다(Sweep). 각 객체들이 연속되게 쌓이도록 힙의 가장 앞 부분부터 채운다(Compaction)
+
+3. Parallel GC
 	1. 처리하는 쓰레드가 여러 개
 	![[Pasted image 20240522164325.png]]
 	종류:
@@ -77,8 +81,9 @@ JVM에서는 빠른 메모리 할당을 위해 두가지 기술을 사용한다
 		- GC가 일어날때 애플리케이션이 멈추는 현상을 최소화하는데 역점을 두었다
 	- [[Throughput방식]]
 		- Minor GC가 발생하였을 때 되도록이면 신속하게 수행하도록 throughput에 중점을 두었다.
+		- ![[Pasted image 20240523021409.png]]
 
-2. Concurrent GC (CMS GC)
+2. Concurrent GC (ConcurrentMarkSweep GC)
 	1. Stop-the-world 최소화
 	2. 일부는 애플리케이션이 돌아가는 단계에서 수행하고 최소한의 작업만을 애플리케이션이 멈췄을 때 수행하는 방식이다.
 		![[Pasted image 20240522165022.png]]
@@ -108,6 +113,7 @@ JVM에서는 빠른 메모리 할당을 위해 두가지 기술을 사용한다
 		파란 원은 Minor GC(=Young GC, Evacuation Phuse)가 진행함에따라 stop-the-world가 발생한 것이다.
 		주황 원은 Major GC(=Old GC, ConcurrentCycle)이 진행하면서 객체를 마킹 및 기타 과정을 하기 위해 stop-the-world가 발생한 것이다.
 		빨간 원은 Mixed GC를 진행함에 따라 stop-the-world가 발생한 것이다.
+		https://youn0111.tistory.com/67
 
 ## 자바 GC로그 모니터링
 - 자바 옵션에 `-verbosegc` 라는 옵션을 주면 되고, `>` 리다이렉션 명령어를 통해서 파일로 저장하고 분석할 수 있다.
@@ -117,4 +123,4 @@ JVM에서는 빠른 메모리 할당을 위해 두가지 기술을 사용한다
 java -jar -verbosegc app.jar
 ```
 
-![[스크린샷 2024-05-22 오후 4.48.05.png]]
+![[스크린샷 2024-05-22 오후 4.48.05.png]]https://youn0111.tistory.com/67

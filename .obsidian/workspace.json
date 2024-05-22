@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Garbage Collection.md",
+                "file": "DeepDiveComparison/Go언어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13879b0b7185621a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESCAPE 분석.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Garbage Collection.md",
+                "file": "ESCAPE 분석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Garbage Collection.md",
+                "file": "ESCAPE 분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Garbage Collection.md"
+                "file": "ESCAPE 분석.md"
               }
             }
           }
@@ -180,15 +193,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ff87174144bcd63",
+  "active": "13879b0b7185621a",
   "lastOpenFiles": [
+    "DeepDiveComparison/Go언어.md",
+    "ESCAPE 분석.md",
+    "Go 언어는 컴파일러의 escape 분석 성능.md",
+    "Java Garbage Collection.md",
+    "write barrier.md",
+    "Pasted image 20240523021409.png",
+    "Pasted image 20240523021354.png",
+    "DeepDiveComparison/Garbage Collection of Programming Languages.md",
+    "고가용성/박병진 멘토님.md",
+    "고가용성",
     "Pasted image 20240523014548.png",
     "스크린샷 2024-05-23 오전 1.45.14.png",
-    "DeepDiveComparison/Garbage Collection of Programming Languages.md",
-    "write barrier.md",
-    "Java Garbage Collection.md",
     "Eden.md",
-    "DeepDiveComparison/Go언어.md",
     "Go Memory Management.md",
     "스크린샷 2024-05-22 오후 4.47.02.png",
     "RaspberryPi/Spring Boot Application.yml in Docker-Compose.md",
@@ -197,9 +216,6 @@
     "Pasted image 20240522164325.png",
     "Pasted image 20240522164146.png",
     "Pasted image 20240522163241.png",
-    "스크린샷 2024-05-22 오후 4.30.21.png",
-    "Pasted image 20240522162950.png",
-    "Pasted image 20240522162854.png",
     "ElasticSearch/ElasticSearch.md",
     "SingSongSangSong/Crawler.md",
     "Rust/캡디 프로젝트.md",
@@ -213,7 +229,6 @@
     "수업/SW 개발팀 - LG전자 이춘식.md",
     "Load Balancing vs Reverse Proxy.md",
     "SingSongSangSong",
-    "Untitled",
     "ALB.md",
     "Load Balancer.md",
     "DeepDiveComparison",
@@ -224,8 +239,6 @@
     "Sharding.md",
     "Segment.md",
     "ElasticSearch",
-    "Database Federation?.md",
-    "인증서를.md",
     "Untitled.canvas",
     "1000만 사용자를 위한 AWS",
     "Operating System"
