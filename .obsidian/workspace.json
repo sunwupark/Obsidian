@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepDiveComparison/Go언어.md",
+                "file": "DeepDiveComparison/Garbage Collection of Programming Languages.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0796ec578f58b945",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepDiveComparison/Go언어.md",
+                "file": "DeepDiveComparison/Garbage Collection of Programming Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepDiveComparison/Go언어.md",
+                "file": "DeepDiveComparison/Garbage Collection of Programming Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepDiveComparison/Go언어.md"
+                "file": "DeepDiveComparison/Garbage Collection of Programming Languages.md"
               }
             }
           }
@@ -149,6 +148,8 @@
   },
   "active": "8ff87174144bcd63",
   "lastOpenFiles": [
+    "DeepDiveComparison/Go언어.md",
+    "DeepDiveComparison/Garbage Collection of Programming Languages.md",
     "스크린샷 2024-05-22 오후 3.20.28.png",
     "스크린샷 2024-05-22 오후 3.20.16.png",
     "Pasted image 20240522150823.png",
@@ -163,7 +164,6 @@
     "MeMe/5.21 회의.md",
     "Kafka/Kafka Definition.md",
     "Rust/Introduction.md",
-    "DeepDiveComparison/Go언어.md",
     "스크린샷 2024-05-21 오후 11.31.58.png",
     "1000만 사용자를 위한 AWS/AWS Service.md",
     "NLB.md",
@@ -191,7 +191,6 @@
     "2024-05-19.md",
     "스크린샷 2024-05-19 오후 3.26.15.png",
     "스크린샷 2024-05-19 오전 10.22.40.png",
-    "스크린샷 2024-05-19 오전 10.20.30.png",
     "1000만 사용자를 위한 AWS",
     "Operating System/Chapter 02.md",
     "Operating System",
