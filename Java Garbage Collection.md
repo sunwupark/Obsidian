@@ -34,7 +34,7 @@ JVM에서는 두가지의 영역으로 나누었다
 
 ### Card Table?
 - Old 영역의 객체가 Young 영역의 객체를 참조할때 정보 표시 => Young 영역의 GC를 실행할때 Old영역의 모든 객체를 참조하지 않고 이 테이블만 뒤져서 GC대상인지 식별
-- write barrier방법!
+- [[write barrier]]방법!
 
 ## Young 영역의 구성
 - [[Eden]] 영역
@@ -75,7 +75,7 @@ JVM에서는 빠른 메모리 할당을 위해 두가지 기술을 사용한다
 	종류:
 	- Low-Pause
 		- GC가 일어날때 애플리케이션이 멈추는 현상을 최소화하는데 역점을 두었다
-	- Throughput방식
+	- [[Throughput방식]]
 		- Minor GC가 발생하였을 때 되도록이면 신속하게 수행하도록 throughput에 중점을 두었다.
 
 2. Concurrent GC (CMS GC)
