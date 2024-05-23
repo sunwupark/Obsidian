@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md",
+                "file": "Rust/캡디 프로젝트.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md",
+                "file": "Rust/캡디 프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md",
+                "file": "Rust/캡디 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md"
+                "file": "Rust/캡디 프로젝트.md"
               }
             }
           }
@@ -195,12 +195,14 @@
   },
   "active": "13879b0b7185621a",
   "lastOpenFiles": [
+    "HTTP/5.23 네트워킹 노트.md",
+    "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md",
+    "HTTP",
     "스크린샷 2024-05-23 오후 1.22.10.png",
     "스크린샷 2024-05-23 오후 1.20.24.png",
     "스크린샷 2024-05-23 오후 1.17.42.png",
     "Java Garbage Collection.md",
     "DeepDiveComparison/Go언어.md",
-    "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md",
     "ESCAPE 분석.md",
     "Dart & Flutter",
     "스택 복사.md",
@@ -220,7 +222,6 @@
     "RaspberryPi/Spring Boot Application.yml in Docker-Compose.md",
     "Pasted image 20240522165022.png",
     "스크린샷 2024-05-22 오후 4.48.05.png",
-    "Pasted image 20240522164325.png",
     "ElasticSearch/ElasticSearch.md",
     "SingSongSangSong/Crawler.md",
     "Rust/캡디 프로젝트.md",
@@ -240,7 +241,6 @@
     "Rust",
     "수업",
     "ElasticSearch",
-    "Untitled.canvas",
-    "1000만 사용자를 위한 AWS"
+    "Untitled.canvas"
   ]
 }
