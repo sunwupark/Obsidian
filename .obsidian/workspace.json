@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/캡디 프로젝트.md",
+                "file": "TDD/5.23 - TDD.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/캡디 프로젝트.md",
+                "file": "TDD/5.23 - TDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/캡디 프로젝트.md",
+                "file": "TDD/5.23 - TDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/캡디 프로젝트.md"
+                "file": "TDD/5.23 - TDD.md"
               }
             }
           }
@@ -195,6 +195,9 @@
   },
   "active": "13879b0b7185621a",
   "lastOpenFiles": [
+    "Rust/캡디 프로젝트.md",
+    "TDD/5.23 - TDD.md",
+    "TDD",
     "HTTP/5.23 네트워킹 노트.md",
     "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md",
     "HTTP",
@@ -224,7 +227,6 @@
     "스크린샷 2024-05-22 오후 4.48.05.png",
     "ElasticSearch/ElasticSearch.md",
     "SingSongSangSong/Crawler.md",
-    "Rust/캡디 프로젝트.md",
     "Rust/Cargo.md",
     "RaspberryPi/Swap Memory.md",
     "MeMe/5.21 회의.md",
@@ -233,14 +235,12 @@
     "1000만 사용자를 위한 AWS/AWS Service.md",
     "NLB.md",
     "수업/SW 개발팀 - LG전자 이춘식.md",
-    "Load Balancing vs Reverse Proxy.md",
     "SingSongSangSong",
     "DeepDiveComparison",
     "MeMe",
     "RaspberryPi",
     "Rust",
     "수업",
-    "ElasticSearch",
     "Untitled.canvas"
   ]
 }
