@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepDiveComparison/Go언어.md",
+                "file": "Java Garbage Collection.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESCAPE 분석.md",
+                "file": "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESCAPE 분석.md",
+                "file": "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESCAPE 분석.md",
+                "file": "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESCAPE 분석.md"
+                "file": "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md"
               }
             }
           }
@@ -195,12 +195,14 @@
   },
   "active": "13879b0b7185621a",
   "lastOpenFiles": [
-    "스택 복사.md",
-    "ESCAPE 분석.md",
-    "스택 분할.md",
-    "DeepDiveComparison/Go언어.md",
-    "Go 언어는 컴파일러의 escape 분석 성능.md",
     "Java Garbage Collection.md",
+    "DeepDiveComparison/Go언어.md",
+    "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md",
+    "ESCAPE 분석.md",
+    "Dart & Flutter",
+    "스택 복사.md",
+    "스택 분할.md",
+    "Go 언어는 컴파일러의 escape 분석 성능.md",
     "write barrier.md",
     "Pasted image 20240523021409.png",
     "Pasted image 20240523021354.png",
@@ -232,7 +234,6 @@
     "Load Balancing vs Reverse Proxy.md",
     "SingSongSangSong",
     "ALB.md",
-    "Load Balancer.md",
     "DeepDiveComparison",
     "MeMe",
     "RaspberryPi",
@@ -240,7 +241,6 @@
     "수업",
     "ElasticSearch",
     "Untitled.canvas",
-    "1000만 사용자를 위한 AWS",
-    "Operating System"
+    "1000만 사용자를 위한 AWS"
   ]
 }
