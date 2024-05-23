@@ -30,6 +30,10 @@ func Heap() user{
 - 스택공간 충분한지 확인
 - 스택이 커질 수 있으므로/과부화 다른 고루틴의 스택 메모리 포인터 가질 수 없다!!
 
+> [!NOTE]
+> Instead of giving each goroutine a fixed amount of stack memory, the Go runtime attempts to give goroutines the stack space they need on demand, freeing the programmer from having to make decisions about stack size
+> 
+
 
 
 ## 출처
