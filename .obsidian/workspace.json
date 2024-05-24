@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Garbage Collection.md",
+                "file": "Go Modules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db8d9b952679bf43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1acdfdd2b9be126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52929d7d52da39d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Garbage Collection.md",
+                "file": "Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Garbage Collection.md",
+                "file": "Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Garbage Collection.md"
+                "file": "Methods.md"
               }
             }
           }
@@ -158,13 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ff87174144bcd63",
+  "active": "db8d9b952679bf43",
   "lastOpenFiles": [
+    "Go Modules.md",
+    "DeepDiveComparison/A Tour of GO.md",
+    "Methods.md",
+    "Functions.md",
+    "Java Garbage Collection.md",
     "TDD/5.23 - TDD.md",
     "Kafka/Kafka Definition.md",
     "Zookeeper.md",
     "DeepDiveComparison/Go언어.md",
-    "Java Garbage Collection.md",
     "스크린샷 2024-05-22 오후 4.47.02.png",
     "Rust/캡디 프로젝트.md",
     "TDD",
@@ -196,10 +237,6 @@
     "SingSongSangSong/Crawler.md",
     "Rust/Cargo.md",
     "RaspberryPi/Swap Memory.md",
-    "MeMe/5.21 회의.md",
-    "Rust/Introduction.md",
-    "1000만 사용자를 위한 AWS/AWS Service.md",
-    "NLB.md",
     "SingSongSangSong",
     "DeepDiveComparison",
     "MeMe",
