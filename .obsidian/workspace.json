@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "db8d9b952679bf43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b1acdfdd2b9be126",
             "type": "leaf",
             "state": {
@@ -67,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methods.md",
+                "file": "Go Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methods.md",
+                "file": "Go Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methods.md"
+                "file": "Go Modules.md"
               }
             }
           }
@@ -195,11 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db8d9b952679bf43",
+  "active": "8ff87174144bcd63",
   "lastOpenFiles": [
+    "Rust/캡디 프로젝트.md",
+    "Methods.md",
     "Go Modules.md",
     "DeepDiveComparison/A Tour of GO.md",
-    "Methods.md",
     "Functions.md",
     "Java Garbage Collection.md",
     "TDD/5.23 - TDD.md",
@@ -207,7 +195,6 @@
     "Zookeeper.md",
     "DeepDiveComparison/Go언어.md",
     "스크린샷 2024-05-22 오후 4.47.02.png",
-    "Rust/캡디 프로젝트.md",
     "TDD",
     "HTTP/5.23 네트워킹 노트.md",
     "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md",
