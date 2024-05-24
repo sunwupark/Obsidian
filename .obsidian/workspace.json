@@ -20,40 +20,6 @@
             }
           },
           {
-            "id": "13879b0b7185621a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TDD/5.23 - TDD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "308fde096a571c27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DeepDiveComparison/Go언어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b67b3c933e3438c0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "스크린샷 2024-05-22 오후 4.47.02.png"
-              }
-            }
-          },
-          {
             "id": "323692801b75decb",
             "type": "leaf",
             "state": {
@@ -65,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDD/5.23 - TDD.md",
+                "file": "Java Garbage Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDD/5.23 - TDD.md",
+                "file": "Java Garbage Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDD/5.23 - TDD.md"
+                "file": "Java Garbage Collection.md"
               }
             }
           }
@@ -193,10 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13879b0b7185621a",
+  "active": "8ff87174144bcd63",
   "lastOpenFiles": [
-    "Rust/캡디 프로젝트.md",
     "TDD/5.23 - TDD.md",
+    "Kafka/Kafka Definition.md",
+    "Zookeeper.md",
+    "DeepDiveComparison/Go언어.md",
+    "Java Garbage Collection.md",
+    "스크린샷 2024-05-22 오후 4.47.02.png",
+    "Rust/캡디 프로젝트.md",
     "TDD",
     "HTTP/5.23 네트워킹 노트.md",
     "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md",
@@ -204,8 +174,6 @@
     "스크린샷 2024-05-23 오후 1.22.10.png",
     "스크린샷 2024-05-23 오후 1.20.24.png",
     "스크린샷 2024-05-23 오후 1.17.42.png",
-    "Java Garbage Collection.md",
-    "DeepDiveComparison/Go언어.md",
     "ESCAPE 분석.md",
     "Dart & Flutter",
     "스택 복사.md",
@@ -221,7 +189,6 @@
     "스크린샷 2024-05-23 오전 1.45.14.png",
     "Eden.md",
     "Go Memory Management.md",
-    "스크린샷 2024-05-22 오후 4.47.02.png",
     "RaspberryPi/Spring Boot Application.yml in Docker-Compose.md",
     "Pasted image 20240522165022.png",
     "스크린샷 2024-05-22 오후 4.48.05.png",
@@ -230,11 +197,9 @@
     "Rust/Cargo.md",
     "RaspberryPi/Swap Memory.md",
     "MeMe/5.21 회의.md",
-    "Kafka/Kafka Definition.md",
     "Rust/Introduction.md",
     "1000만 사용자를 위한 AWS/AWS Service.md",
     "NLB.md",
-    "수업/SW 개발팀 - LG전자 이춘식.md",
     "SingSongSangSong",
     "DeepDiveComparison",
     "MeMe",
