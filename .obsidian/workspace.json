@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go Modules.md",
+                "file": "DeepDiveComparison/A Tour of GO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73a47ce61936e501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "모니터링/5.25 모니터링 특강.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go Modules.md",
+                "file": "모니터링/5.25 모니터링 특강.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go Modules.md",
+                "file": "모니터링/5.25 모니터링 특강.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go Modules.md"
+                "file": "모니터링/5.25 모니터링 특강.md"
               }
             }
           }
@@ -182,18 +195,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ff87174144bcd63",
+  "active": "73a47ce61936e501",
   "lastOpenFiles": [
-    "Rust/캡디 프로젝트.md",
+    "Operating System/Chapter 02.md",
+    "모니터링/5.25 모니터링 특강.md",
+    "모니터링",
+    "Pasted image 20240525183830.png",
     "Methods.md",
-    "Go Modules.md",
     "DeepDiveComparison/A Tour of GO.md",
+    "DeepDiveComparison/Go언어.md",
+    "Kafka/Kafka Definition.md",
+    "RaspberryPi/Swap Memory.md",
+    "Go Modules.md",
+    "Rust/캡디 프로젝트.md",
     "Functions.md",
     "Java Garbage Collection.md",
     "TDD/5.23 - TDD.md",
-    "Kafka/Kafka Definition.md",
     "Zookeeper.md",
-    "DeepDiveComparison/Go언어.md",
     "스크린샷 2024-05-22 오후 4.47.02.png",
     "TDD",
     "HTTP/5.23 네트워킹 노트.md",
@@ -219,17 +237,12 @@
     "Go Memory Management.md",
     "RaspberryPi/Spring Boot Application.yml in Docker-Compose.md",
     "Pasted image 20240522165022.png",
-    "스크린샷 2024-05-22 오후 4.48.05.png",
     "ElasticSearch/ElasticSearch.md",
-    "SingSongSangSong/Crawler.md",
-    "Rust/Cargo.md",
-    "RaspberryPi/Swap Memory.md",
     "SingSongSangSong",
     "DeepDiveComparison",
     "MeMe",
     "RaspberryPi",
     "Rust",
-    "수업",
     "Untitled.canvas"
   ]
 }
