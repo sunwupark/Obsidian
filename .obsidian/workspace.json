@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/Kafka Definition.md",
+                "file": "모니터링/5.25 모니터링 특강.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kafka/Kafka Definition.md",
+                "file": "모니터링/5.25 모니터링 특강.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kafka/Kafka Definition.md",
+                "file": "모니터링/5.25 모니터링 특강.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kafka/Kafka Definition.md"
+                "file": "모니터링/5.25 모니터링 특강.md"
               }
             }
           }
@@ -148,13 +148,27 @@
   },
   "active": "50d833e980051913",
   "lastOpenFiles": [
-    "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md",
+    "TDD/5.23 - TDD.md",
+    "스크린샷 2024-05-19 오전 2.09.20.png",
+    "SingSongSangSong/Crawler.md",
+    "Rust/Cargo.md",
+    "Rust/캡디 프로젝트.md",
+    "RaspberryPi/Swap Memory.md",
+    "RaspberryPi/Spring Boot Application.yml in Docker-Compose.md",
+    "HTTP/5.23 네트워킹 노트.md",
+    "모니터링/5.25 모니터링 특강.md",
+    "고가용성/박병진 멘토님.md",
+    "Kafka/Kafka Definition.md",
     "Java Garbage Collection.md",
+    "Pasted image 20240522162950.png",
+    "DeepDiveComparison/Garbage Collection of Programming Languages.md",
+    "수업/SW 개발팀 - LG전자 이춘식.md",
+    "1000만 사용자를 위한 AWS/AWS Service.md",
+    "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md",
     "Go Modules.md",
     "Functions.md",
     "Operating System/Chapter 02.md",
     "IPC.md",
-    "Kafka/Kafka Definition.md",
     "스크린샷 2024-05-26 오후 1.36.20.png",
     "Pasted image 20240526132246.png",
     "Pasted image 20240526122013.png",
@@ -162,32 +176,18 @@
     "Pasted image 20240526093519.png",
     "Pasted image 20240526092653.png",
     "DeepDiveComparison/A Tour of GO.md",
-    "모니터링/5.25 모니터링 특강.md",
     "모니터링",
     "Pasted image 20240525183830.png",
     "Methods.md",
     "DeepDiveComparison/Go언어.md",
-    "RaspberryPi/Swap Memory.md",
-    "Rust/캡디 프로젝트.md",
-    "TDD/5.23 - TDD.md",
     "Zookeeper.md",
     "스크린샷 2024-05-22 오후 4.47.02.png",
     "TDD",
-    "HTTP/5.23 네트워킹 노트.md",
     "HTTP",
-    "스크린샷 2024-05-23 오후 1.22.10.png",
-    "스크린샷 2024-05-23 오후 1.20.24.png",
     "ESCAPE 분석.md",
     "Dart & Flutter",
     "스택 복사.md",
-    "스택 분할.md",
-    "Go 언어는 컴파일러의 escape 분석 성능.md",
-    "write barrier.md",
-    "DeepDiveComparison/Garbage Collection of Programming Languages.md",
-    "고가용성/박병진 멘토님.md",
     "고가용성",
-    "Eden.md",
-    "Go Memory Management.md",
     "SingSongSangSong",
     "DeepDiveComparison",
     "MeMe",
