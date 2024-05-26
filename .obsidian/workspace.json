@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Chapter 02.md",
+                "file": "Kafka/Kafka Definition.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System/Chapter 02.md",
+                "file": "Kafka/Kafka Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System/Chapter 02.md",
+                "file": "Kafka/Kafka Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System/Chapter 02.md"
+                "file": "Kafka/Kafka Definition.md"
               }
             }
           }
@@ -184,13 +184,16 @@
   },
   "active": "8ff87174144bcd63",
   "lastOpenFiles": [
+    "Operating System/Chapter 02.md",
+    "스크린샷 2024-05-26 오후 1.36.20.png",
+    "IPC.md",
+    "Pasted image 20240526132246.png",
     "Pasted image 20240526122013.png",
     "Pasted image 20240526121527.png",
     "Pasted image 20240526093519.png",
     "Pasted image 20240526092653.png",
     "DeepDiveComparison/A Tour of GO.md",
     "모니터링/5.25 모니터링 특강.md",
-    "Operating System/Chapter 02.md",
     "모니터링",
     "Pasted image 20240525183830.png",
     "Methods.md",
@@ -210,21 +213,17 @@
     "HTTP",
     "스크린샷 2024-05-23 오후 1.22.10.png",
     "스크린샷 2024-05-23 오후 1.20.24.png",
-    "스크린샷 2024-05-23 오후 1.17.42.png",
     "ESCAPE 분석.md",
     "Dart & Flutter",
     "스택 복사.md",
     "스택 분할.md",
     "Go 언어는 컴파일러의 escape 분석 성능.md",
     "write barrier.md",
-    "Pasted image 20240523021409.png",
-    "Pasted image 20240523021354.png",
     "DeepDiveComparison/Garbage Collection of Programming Languages.md",
     "고가용성/박병진 멘토님.md",
     "고가용성",
     "Eden.md",
     "Go Memory Management.md",
-    "RaspberryPi/Spring Boot Application.yml in Docker-Compose.md",
     "SingSongSangSong",
     "DeepDiveComparison",
     "MeMe",
