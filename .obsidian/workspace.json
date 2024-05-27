@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepDiveComparison/Go언어.md",
+                "file": "수업/SW 개발팀 - LG전자 이춘식.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepDiveComparison/Go언어.md",
+                "file": "수업/SW 개발팀 - LG전자 이춘식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepDiveComparison/Go언어.md",
+                "file": "수업/SW 개발팀 - LG전자 이춘식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepDiveComparison/Go언어.md"
+                "file": "수업/SW 개발팀 - LG전자 이춘식.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "50d833e980051913",
   "lastOpenFiles": [
+    "모니터링/5.25 모니터링 특강.md",
+    "1000만 사용자를 위한 AWS/AWS Service.md",
+    "DeepDiveComparison/Go언어.md",
     "ElasticSearch/ElasticSearch.md",
     "HTTP/5.23 네트워킹 노트.md",
     "Kafka/Kafka Definition.md",
@@ -156,7 +159,6 @@
     "RaspberryPi/Spring Boot Application.yml in Docker-Compose.md",
     "RaspberryPi/Swap Memory.md",
     "Rust/캡디 프로젝트.md",
-    "모니터링/5.25 모니터링 특강.md",
     "수업/SW 개발팀 - LG전자 이춘식.md",
     "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md",
     "DeepDiveComparison/A Tour of GO.md",
@@ -168,7 +170,6 @@
     "Java Garbage Collection.md",
     "Pasted image 20240522162950.png",
     "DeepDiveComparison/Garbage Collection of Programming Languages.md",
-    "1000만 사용자를 위한 AWS/AWS Service.md",
     "Go Modules.md",
     "Functions.md",
     "Operating System/Chapter 02.md",
@@ -182,7 +183,6 @@
     "모니터링",
     "Pasted image 20240525183830.png",
     "Methods.md",
-    "DeepDiveComparison/Go언어.md",
     "Zookeeper.md",
     "스크린샷 2024-05-22 오후 4.47.02.png",
     "TDD",
