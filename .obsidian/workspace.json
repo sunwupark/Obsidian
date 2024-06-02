@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e03d2c8d7438ed61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MultiThread Concurrency/안재홍 멘토님 특강.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kafka/Kafka Definition.md",
+                "file": "MultiThread Concurrency/안재홍 멘토님 특강.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kafka/Kafka Definition.md",
+                "file": "MultiThread Concurrency/안재홍 멘토님 특강.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kafka/Kafka Definition.md"
+                "file": "MultiThread Concurrency/안재홍 멘토님 특강.md"
               }
             }
           }
@@ -146,12 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50d833e980051913",
+  "active": "e03d2c8d7438ed61",
   "lastOpenFiles": [
+    "Untitled.md",
+    "MultiThread Concurrency/안재홍 멘토님 특강.md",
+    "MultiThread Concurrency",
+    "Untitled",
+    "Kafka/Kafka Definition.md",
     "Operating System/Chapter 02.md",
     "Operating System/Chapter 01.md",
     "MeMe/5.21 회의.md",
-    "Kafka/Kafka Definition.md",
     "HTTP/5.23 네트워킹 노트.md",
     "ElasticSearch/ElasticSearch.md",
     "DeepDiveComparison/Go언어.md",
@@ -182,8 +199,6 @@
     "Pasted image 20240526092653.png",
     "모니터링",
     "Pasted image 20240525183830.png",
-    "Methods.md",
-    "Zookeeper.md",
     "스크린샷 2024-05-22 오후 4.47.02.png",
     "TDD",
     "HTTP",
@@ -192,8 +207,6 @@
     "SingSongSangSong",
     "DeepDiveComparison",
     "MeMe",
-    "RaspberryPi",
-    "Rust",
     "Untitled.canvas"
   ]
 }
