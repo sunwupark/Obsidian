@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TDD/5.23 - TDD.md",
+                "file": "Terraform/Terraform 멘토링.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDD/5.23 - TDD.md",
+                "file": "Terraform/Terraform 멘토링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDD/5.23 - TDD.md",
+                "file": "Terraform/Terraform 멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDD/5.23 - TDD.md"
+                "file": "Terraform/Terraform 멘토링.md"
               }
             }
           }
@@ -161,6 +161,10 @@
   },
   "active": "e03d2c8d7438ed61",
   "lastOpenFiles": [
+    "Terraform (코노멘트).pdf",
+    "TDD/5.23 - TDD.md",
+    "Terraform/Terraform 멘토링.md",
+    "Terraform",
     "Operating System/Chapter 02.md",
     "DeepDiveComparison/Go언어.md",
     "DeepDiveComparison/Garbage Collection of Programming Languages.md",
@@ -181,7 +185,6 @@
     "RaspberryPi/Spring Boot Application.yml in Docker-Compose.md",
     "RaspberryPi/Swap Memory.md",
     "Rust/캡디 프로젝트.md",
-    "TDD/5.23 - TDD.md",
     "스크린샷 2024-05-19 오전 2.09.20.png",
     "SingSongSangSong/Crawler.md",
     "Rust/Cargo.md",
@@ -189,8 +192,6 @@
     "Java Garbage Collection.md",
     "Pasted image 20240522162950.png",
     "Go Modules.md",
-    "Functions.md",
-    "IPC.md",
     "스크린샷 2024-05-26 오후 1.36.20.png",
     "Pasted image 20240526132246.png",
     "Pasted image 20240526122013.png",
@@ -206,7 +207,6 @@
     "고가용성",
     "SingSongSangSong",
     "DeepDiveComparison",
-    "MeMe",
     "Untitled.canvas"
   ]
 }
