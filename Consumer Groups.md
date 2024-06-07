@@ -1,5 +1,6 @@
 All the consumers in an application read data as consumer groups
 each consumer with in a group reads from exclusive patitions
+
 ![[스크린샷 2024-06-06 오후 5.27.54.png]]
 
 ![[Pasted image 20240606172829.png]]

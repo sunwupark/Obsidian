@@ -18,7 +18,6 @@ Feature Flag? - 기능을 원격에서 껐다 켰다
 p0 ~ p5
 p0 - 급한 내용
 
-코멘트 prefix 우선순위
 
 https://www.ab180.co/solutions/amplitude?gad_source=1&gclid=CjwKCAjwvIWzBhAlEiwAHHWgveze7VeRwBQ1M_LHOzh8-4LA69YzrdAc0PbCUDb8dJ143K_4LbwtXxoChAUQAvD_BwE
 
@@ -26,3 +25,9 @@ git-flow cheatsheet
 
 squash merge
 - 커밋을 하나로 합쳐서 들어간다!
+
+용우's Comment
+- AB-testing
+- feature toggle
+- 시각화 툴 
+	- -> Amplitude, https://mixpanel.com/
