@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/Kafka Definition.md",
+                "file": "FullStack/Chapters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0a23d28c532af7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gRPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +151,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0796ec578f58b945",
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kafka/Kafka Definition.md",
+                "file": "gRPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kafka/Kafka Definition.md",
+                "file": "gRPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kafka/Kafka Definition.md"
+                "file": "gRPC.md"
               }
             }
           }
@@ -267,11 +279,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50d833e980051913",
+  "active": "b0a23d28c532af7b",
   "lastOpenFiles": [
+    "FullStack/Chapters.md",
+    "gRPC.md",
+    "Kafka/Kafka Definition.md",
+    "FullStack",
     "Kafka Consumer.md",
     "Kafka Producer.md",
-    "Kafka/Kafka Definition.md",
     "스크린샷 2024-06-06 오후 6.21.06.png",
     "Pasted image 20240606180312.png",
     "CLI Tutortial.md",
@@ -307,14 +322,11 @@
     "Operating System/Chapter 01.md",
     "MeMe/5.21 회의.md",
     "HTTP/5.23 네트워킹 노트.md",
-    "ElasticSearch/ElasticSearch.md",
-    "DeepDiveComparison/A Tour of GO.md",
     "모니터링",
     "TDD",
     "HTTP",
     "Dart & Flutter",
     "고가용성",
-    "SingSongSangSong",
     "Untitled.canvas"
   ]
 }
