@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gRPC.md",
+                "file": "Git/CodeReview.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gRPC.md",
+                "file": "Git/CodeReview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gRPC.md",
+                "file": "Git/CodeReview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gRPC.md"
+                "file": "Git/CodeReview.md"
               }
             }
           }
@@ -281,8 +281,10 @@
   },
   "active": "b0a23d28c532af7b",
   "lastOpenFiles": [
-    "FullStack/Chapters.md",
     "gRPC.md",
+    "Git/CodeReview.md",
+    "Untitled 1",
+    "FullStack/Chapters.md",
     "Kafka/Kafka Definition.md",
     "FullStack",
     "Kafka Consumer.md",
@@ -318,15 +320,13 @@
     "MultiThread Concurrency/안재홍 멘토님 특강.md",
     "Untitled.md",
     "MultiThread Concurrency",
-    "Untitled",
+    "Git",
     "Operating System/Chapter 01.md",
     "MeMe/5.21 회의.md",
-    "HTTP/5.23 네트워킹 노트.md",
     "모니터링",
     "TDD",
     "HTTP",
     "Dart & Flutter",
-    "고가용성",
     "Untitled.canvas"
   ]
 }
