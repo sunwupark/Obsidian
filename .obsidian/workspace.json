@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "1764199e21bce4b0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
             "id": "53d78a3411451bba",
             "type": "leaf",
             "state": {
@@ -152,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -279,7 +289,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0a23d28c532af7b",
+  "active": "1764199e21bce4b0",
   "lastOpenFiles": [
     "Git/CodeReview.md",
     "Kafka/Kafka Definition.md",
