@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/CodeReview.md",
+                "file": "HTTP/5.23 네트워킹 노트.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/CodeReview.md",
+                "file": "HTTP/5.23 네트워킹 노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/CodeReview.md",
+                "file": "HTTP/5.23 네트워킹 노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/CodeReview.md"
+                "file": "HTTP/5.23 네트워킹 노트.md"
               }
             }
           }
@@ -281,13 +281,13 @@
   },
   "active": "b0a23d28c532af7b",
   "lastOpenFiles": [
+    "Git/CodeReview.md",
     "Kafka/Kafka Definition.md",
     "Zookeeper.md",
     "Consumer Groups.md",
     "KRaft.md",
     "Kafka Topics.md",
     "FullStack/Chapters.md",
-    "Git/CodeReview.md",
     "gRPC.md",
     "Untitled 1",
     "FullStack",
