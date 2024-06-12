@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7f7e4ad3100ff38b",
+        "id": "a12bac74164aa9f6",
         "type": "tabs",
         "children": [
           {
-            "id": "50d833e980051913",
+            "id": "4f4164cbe45d1cc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,151 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b0a23d28c532af7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTTP/5.23 네트워킹 노트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1764199e21bce4b0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "53d78a3411451bba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kafka Producer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96b62d45522364f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLI Tutortial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e03d2c8d7438ed61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zookeeper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfcde8af8d7b038a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Producer Acknowledgements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72ef38166f15892e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topic Replication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50f2d6d96ebc88c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kafka Brokers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9082d54ffeaedd96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Consumer Groups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5116fe8e6444869f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Consumers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50250df031c25251",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Producer and Message Key.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5646d62800cab8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kafka Topics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP/5.23 네트워킹 노트.md",
+                "file": "FullStack/Chapters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTP/5.23 네트워킹 노트.md",
+                "file": "FullStack/Chapters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP/5.23 네트워킹 노트.md"
+                "file": "FullStack/Chapters.md"
               }
             }
           }
@@ -289,36 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1764199e21bce4b0",
+  "active": "4f4164cbe45d1cc1",
   "lastOpenFiles": [
+    "Kafka Topics.md",
+    "Producer and Message Key.md",
+    "Consumers.md",
+    "Consumer Groups.md",
+    "Kafka Brokers.md",
+    "Topic Replication.md",
+    "Producer Acknowledgements.md",
+    "Zookeeper.md",
+    "CLI Tutortial.md",
+    "Kafka Producer.md",
+    "FullStack/Chapters.md",
+    "HTTP/5.23 네트워킹 노트.md",
     "Git/CodeReview.md",
     "Kafka/Kafka Definition.md",
-    "Zookeeper.md",
-    "Consumer Groups.md",
     "KRaft.md",
-    "Kafka Topics.md",
-    "FullStack/Chapters.md",
     "gRPC.md",
     "Untitled 1",
     "FullStack",
     "Kafka Consumer.md",
-    "Kafka Producer.md",
     "스크린샷 2024-06-06 오후 6.21.06.png",
     "Pasted image 20240606180312.png",
-    "CLI Tutortial.md",
     "스크린샷 2024-06-06 오후 5.49.57.png",
     "스크린샷 2024-06-06 오후 5.49.46.png",
     "스크린샷 2024-06-06 오후 5.46.08.png",
     "스크린샷 2024-06-06 오후 5.45.22.png",
-    "Producer Acknowledgements.md",
     "스크린샷 2024-06-06 오후 5.42.55.png",
     "스크린샷 2024-06-06 오후 5.42.09.png",
-    "Topic Replication.md",
     "스크린샷 2024-06-06 오후 5.40.57.png",
     "스크린샷 2024-06-06 오후 5.40.00.png",
-    "Kafka Brokers.md",
-    "Consumers.md",
-    "Producer and Message Key.md",
     "Terraform/Terraform 멘토링.md",
     "Terraform (코노멘트).pdf",
     "TDD/5.23 - TDD.md",
@@ -332,7 +190,6 @@
     "MultiThread Concurrency",
     "Git",
     "Operating System/Chapter 01.md",
-    "MeMe/5.21 회의.md",
     "모니터링",
     "TDD",
     "HTTP",
