@@ -11,8 +11,12 @@
             "id": "abb9ea92b478de78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AWS/CloudFront.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AWS/CloudFront.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AWS/CloudFront.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AWS/CloudFront.md"
+              }
             }
           }
         ]
@@ -140,6 +148,9 @@
   },
   "active": "abb9ea92b478de78",
   "lastOpenFiles": [
+    "스크린샷 2024-06-14 오후 4.00.13.png",
+    "AWS/CloudFront.md",
+    "AWS",
     "FullStack/Chapters.md",
     "Kafka Topics.md",
     "Producer and Message Key.md",
@@ -178,14 +189,11 @@
     "DeepDiveComparison/Garbage Collection of Programming Languages.md",
     "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md",
     "MultiThread Concurrency/안재홍 멘토님 특강.md",
-    "Untitled.md",
     "MultiThread Concurrency",
     "Git",
-    "Operating System/Chapter 01.md",
     "모니터링",
     "TDD",
     "HTTP",
-    "Dart & Flutter",
     "Untitled.canvas"
   ]
 }
