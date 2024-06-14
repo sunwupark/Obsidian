@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/CloudFront.md",
+                "file": "AWS/Cloud Integration Section.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/CloudFront.md",
+                "file": "AWS/Cloud Integration Section.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/CloudFront.md",
+                "file": "AWS/Cloud Integration Section.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/CloudFront.md"
+                "file": "AWS/Cloud Integration Section.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "abb9ea92b478de78",
   "lastOpenFiles": [
-    "스크린샷 2024-06-14 오후 4.00.13.png",
     "AWS/CloudFront.md",
+    "AWS/Cloud Integration Section.md",
+    "스크린샷 2024-06-14 오후 4.25.49.png",
+    "스크린샷 2024-06-14 오후 4.25.43.png",
+    "스크린샷 2024-06-14 오후 4.19.27.png",
+    "스크린샷 2024-06-14 오후 4.13.57.png",
+    "스크린샷 2024-06-14 오후 4.00.13.png",
     "AWS",
     "FullStack/Chapters.md",
     "Kafka Topics.md",
@@ -175,11 +180,6 @@
     "스크린샷 2024-06-06 오후 5.49.57.png",
     "스크린샷 2024-06-06 오후 5.49.46.png",
     "스크린샷 2024-06-06 오후 5.46.08.png",
-    "스크린샷 2024-06-06 오후 5.45.22.png",
-    "스크린샷 2024-06-06 오후 5.42.55.png",
-    "스크린샷 2024-06-06 오후 5.42.09.png",
-    "스크린샷 2024-06-06 오후 5.40.57.png",
-    "스크린샷 2024-06-06 오후 5.40.00.png",
     "Terraform/Terraform 멘토링.md",
     "Terraform (코노멘트).pdf",
     "TDD/5.23 - TDD.md",
