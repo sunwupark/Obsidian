@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Cloud Integration Section.md",
+                "file": "Kafka/Dive to Apache Kafka - 06.15.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0796ec578f58b945",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Cloud Integration Section.md",
+                "file": "Kafka/Dive to Apache Kafka - 06.15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Cloud Integration Section.md",
+                "file": "Kafka/Dive to Apache Kafka - 06.15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Cloud Integration Section.md"
+                "file": "Kafka/Dive to Apache Kafka - 06.15.md"
               }
             }
           }
@@ -148,14 +149,21 @@
   },
   "active": "abb9ea92b478de78",
   "lastOpenFiles": [
+    "Kafka/Kafka Definition.md",
+    "Kafka/Dive to Apache Kafka - 06.15.md",
+    "AWS/Cloud Monitoring.md",
+    "Pasted image 20240615172150.png",
+    "Pasted image 20240615172014.png",
+    "Pasted image 20240615171909.png",
+    "Pasted image 20240615171422.png",
+    "Pasted image 20240615171410.png",
+    "스크린샷 2024-06-15 오후 5.10.36.png",
+    "AWS/Cloud Integration Section.md",
+    "스크린샷 2024-06-15 오후 5.07.02.png",
+    "스크린샷 2024-06-15 오후 5.05.40.png",
     "스크린샷 2024-06-14 오후 4.55.49.png",
     "AWS/CloudFront.md",
-    "AWS/Cloud Integration Section.md",
     "스크린샷 2024-06-14 오후 4.25.49.png",
-    "스크린샷 2024-06-14 오후 4.25.43.png",
-    "스크린샷 2024-06-14 오후 4.19.27.png",
-    "스크린샷 2024-06-14 오후 4.13.57.png",
-    "스크린샷 2024-06-14 오후 4.00.13.png",
     "AWS",
     "FullStack/Chapters.md",
     "Kafka Topics.md",
@@ -170,17 +178,11 @@
     "Kafka Producer.md",
     "HTTP/5.23 네트워킹 노트.md",
     "Git/CodeReview.md",
-    "Kafka/Kafka Definition.md",
     "KRaft.md",
     "gRPC.md",
     "Untitled 1",
     "FullStack",
     "Kafka Consumer.md",
-    "스크린샷 2024-06-06 오후 6.21.06.png",
-    "Pasted image 20240606180312.png",
-    "스크린샷 2024-06-06 오후 5.49.57.png",
-    "스크린샷 2024-06-06 오후 5.49.46.png",
-    "스크린샷 2024-06-06 오후 5.46.08.png",
     "Terraform/Terraform 멘토링.md",
     "Terraform (코노멘트).pdf",
     "TDD/5.23 - TDD.md",
@@ -188,7 +190,6 @@
     "Operating System/Chapter 02.md",
     "DeepDiveComparison/Go언어.md",
     "DeepDiveComparison/Garbage Collection of Programming Languages.md",
-    "Dart & Flutter/Dart & Flutter 심화 기술의 이해.md",
     "MultiThread Concurrency",
     "Git",
     "모니터링",
