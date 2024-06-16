@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/Dive to Apache Kafka - 06.15.md",
+                "file": "모니터링/TSDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kafka/Dive to Apache Kafka - 06.15.md",
+                "file": "모니터링/TSDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kafka/Dive to Apache Kafka - 06.15.md",
+                "file": "모니터링/TSDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kafka/Dive to Apache Kafka - 06.15.md"
+                "file": "모니터링/TSDB.md"
               }
             }
           }
@@ -149,21 +149,24 @@
   },
   "active": "abb9ea92b478de78",
   "lastOpenFiles": [
+    "Pasted image 20240616152355.png",
+    "Pasted image 20240616152203.png",
+    "Pasted image 20240616151431.png",
+    "Pasted image 20240616151422.png",
+    "Pasted image 20240616151124.png",
+    "모니터링/5.25 모니터링 특강.md",
+    "모니터링/TSDB.md",
+    "TDD/5.23 - TDD.md",
+    "Kafka/Dive to Apache Kafka - 06.15.md",
     "스크린샷 2024-06-15 오후 7.50.18.png",
     "Pasted image 20240615195019.png",
     "Pasted image 20240615194638.png",
     "Pasted image 20240615194542.png",
     "Kafka/Kafka Definition.md",
-    "Kafka/Dive to Apache Kafka - 06.15.md",
     "AWS/Cloud Monitoring.md",
     "Pasted image 20240615172150.png",
     "Pasted image 20240615172014.png",
-    "Pasted image 20240615171909.png",
-    "Pasted image 20240615171422.png",
-    "Pasted image 20240615171410.png",
-    "스크린샷 2024-06-15 오후 5.10.36.png",
     "AWS/Cloud Integration Section.md",
-    "스크린샷 2024-06-15 오후 5.07.02.png",
     "AWS/CloudFront.md",
     "AWS",
     "FullStack/Chapters.md",
@@ -186,10 +189,7 @@
     "Kafka Consumer.md",
     "Terraform/Terraform 멘토링.md",
     "Terraform (코노멘트).pdf",
-    "TDD/5.23 - TDD.md",
     "Terraform",
-    "Operating System/Chapter 02.md",
-    "DeepDiveComparison/Go언어.md",
     "MultiThread Concurrency",
     "Git",
     "모니터링",
