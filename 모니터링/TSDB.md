@@ -39,3 +39,47 @@ https://docs.victoriametrics.com/
 프로메테우스 - 단일 운용이 제일 가능하기 때문에 - 한대 Single point of Failure 
 방지 하기 위해서 프로메테우스에 호환되는 것이 - thanos! 라는 솔루션이다!
 프로테우스를 모니터링 하는 프로메테우스
+
+모니터링 
+- 로그 수집 -> 에러 로그, 쿼리 지표 수집, 어떠한 서비스를 많이 사용하는지 지표 수집/트래픽?
+- CPU및 메모리 부하 
+
+오픈소스 + 사용 솔루션??
+=> DataDOG!! (사용에서는 리더, Honey?)
+-  목적? 솔루션 -> 비즈니스 솔루션?
+=> 오픈소스 역량?
+Spring Actuator - 지표를 수집하고 뽑아야 하는 데! Node_Exporter가 필요없다
+AWS CloudWatch 
+(https://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html)
+spring sdk -> log -> cloudwatch
+log를 어떻게 적는가? 컴포넌트
+log path!
+
+Loki -> 
+ELK Stack + LGTM Stack => 장단점
+기능은 큰 차이가 없다!
+- ELK Stack? Grafana Labs? Loki
+- OpenTelemetry - Backend 구축 -> LGTM, 
+	- 수집해야하는 방법이 있다. Alloy(Collector)
+	- 써보기만 할 것 같다!
+
+
+## TSDB의 핵심은 어떻게 압축할것인가!!1
+
+- ![[Pasted image 20240616161212.png]]
+
+ ![[Pasted image 20240616161515.png]]
+
+
+![[Pasted image 20240616161831.png]]
+
+
+공부하고싶다면
+https://dl.acm.org/doi/10.14778/2824032.2824078
+https://ieeexplore.ieee.org/document/1607248
+
+![[Pasted image 20240616161926.png]]
+- 서버 12대->1대 줄임
+\
+![[Pasted image 20240616162606.png]]
+
