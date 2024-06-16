@@ -83,3 +83,9 @@ https://ieeexplore.ieee.org/document/1607248
 \
 ![[Pasted image 20240616162606.png]]
 
+Golden Signal 
+- Latency
+- Traffic
+- Errors
+- Saturation
+
