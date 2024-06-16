@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모니터링/6.16 TSDB 특강.md",
+                "file": "Alarm Service/KaKao Alarm Server.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모니터링/6.16 TSDB 특강.md",
+                "file": "Alarm Service/KaKao Alarm Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모니터링/6.16 TSDB 특강.md",
+                "file": "Alarm Service/KaKao Alarm Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모니터링/6.16 TSDB 특강.md"
+                "file": "Alarm Service/KaKao Alarm Server.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "abb9ea92b478de78",
   "lastOpenFiles": [
-    "Pasted image 20240616222103.png",
+    "모니터링/6.16 TSDB 특강.md",
+    "모니터링/5.25 모니터링 특강.md",
     "Alarm Service/KaKao Alarm Server.md",
+    "Pasted image 20240616222103.png",
     "스크린샷 2024-06-16 오후 9.58.19.png",
     "Pasted image 20240616215802.png",
     "Pasted image 20240616215623.png",
@@ -161,10 +163,7 @@
     "SingSongSangSong/Crawler.md",
     "Untitled 1.md",
     "Alarm Service",
-    "모니터링/6.16 TSDB 특강.md",
     "Pasted image 20240616162606.png",
-    "Pasted image 20240616161926.png",
-    "모니터링/5.25 모니터링 특강.md",
     "TDD/5.23 - TDD.md",
     "Kafka/Dive to Apache Kafka - 06.15.md",
     "Kafka/Kafka Definition.md",
