@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모니터링/TSDB.md",
+                "file": "Alarm Service/KaKao Alarm Server.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0796ec578f58b945",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모니터링/TSDB.md",
+                "file": "Alarm Service/KaKao Alarm Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모니터링/TSDB.md",
+                "file": "Alarm Service/KaKao Alarm Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모니터링/TSDB.md"
+                "file": "Alarm Service/KaKao Alarm Server.md"
               }
             }
           }
@@ -149,6 +148,11 @@
   },
   "active": "abb9ea92b478de78",
   "lastOpenFiles": [
+    "SingSongSangSong/Crawler.md",
+    "Alarm Service/KaKao Alarm Server.md",
+    "Untitled 1.md",
+    "Alarm Service",
+    "모니터링/TSDB.md",
     "Pasted image 20240616162606.png",
     "Pasted image 20240616161926.png",
     "Pasted image 20240616161831.png",
@@ -160,10 +164,8 @@
     "Pasted image 20240616151422.png",
     "Pasted image 20240616151124.png",
     "모니터링/5.25 모니터링 특강.md",
-    "모니터링/TSDB.md",
     "TDD/5.23 - TDD.md",
     "Kafka/Dive to Apache Kafka - 06.15.md",
-    "스크린샷 2024-06-15 오후 7.50.18.png",
     "Kafka/Kafka Definition.md",
     "AWS/Cloud Monitoring.md",
     "AWS/Cloud Integration Section.md",
@@ -186,15 +188,12 @@
     "gRPC.md",
     "Untitled 1",
     "FullStack",
-    "Kafka Consumer.md",
-    "Terraform/Terraform 멘토링.md",
     "Terraform (코노멘트).pdf",
     "Terraform",
     "MultiThread Concurrency",
     "Git",
     "모니터링",
     "TDD",
-    "HTTP",
     "Untitled.canvas"
   ]
 }
