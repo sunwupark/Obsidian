@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alarm Service/Spring Alarm Service 구현.md",
+                "file": "Alarm Service/KaKao Alarm Server.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alarm Service/Spring Alarm Service 구현.md",
+                "file": "Alarm Service/KaKao Alarm Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alarm Service/Spring Alarm Service 구현.md",
+                "file": "Alarm Service/KaKao Alarm Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alarm Service/Spring Alarm Service 구현.md"
+                "file": "Alarm Service/KaKao Alarm Server.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "abb9ea92b478de78",
   "lastOpenFiles": [
-    "Alarm Service/KaKao Alarm Server.md",
     "Alarm Service/Spring Alarm Service 구현.md",
+    "Alarm Service/KaKao Alarm Server.md",
+    "Pasted image 20240617231215.png",
+    "Pasted image 20240617231136.png",
+    "Pasted image 20240617231106.png",
+    "Pasted image 20240617231010.png",
     "모니터링/6.16 TSDB 특강.md",
     "모니터링/5.25 모니터링 특강.md",
     "Pasted image 20240616222103.png",
@@ -158,13 +162,9 @@
     "Pasted image 20240616215623.png",
     "Pasted image 20240616215603.png",
     "Pasted image 20240616215448.png",
-    "스크린샷 2024-06-16 오후 9.53.56.png",
-    "스크린샷 2024-06-16 오후 9.53.30.png",
-    "Pasted image 20240616215232.png",
     "SingSongSangSong/Crawler.md",
     "Untitled 1.md",
     "Alarm Service",
-    "Pasted image 20240616162606.png",
     "TDD/5.23 - TDD.md",
     "Kafka/Dive to Apache Kafka - 06.15.md",
     "Kafka/Kafka Definition.md",
@@ -185,7 +185,6 @@
     "Kafka Producer.md",
     "HTTP/5.23 네트워킹 노트.md",
     "Git/CodeReview.md",
-    "KRaft.md",
     "Untitled 1",
     "FullStack",
     "Terraform (코노멘트).pdf",
