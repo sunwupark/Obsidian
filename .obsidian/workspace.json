@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0796ec578f58b945",
@@ -148,6 +149,7 @@
   },
   "active": "abb9ea92b478de78",
   "lastOpenFiles": [
+    "Pasted image 20240618210907.png",
     "모니터링/Spring Acutator.md",
     "모니터링/Kafka - ELK.md",
     "Pasted image 20240618011825.png",
@@ -185,7 +187,6 @@
     "Producer Acknowledgements.md",
     "Zookeeper.md",
     "CLI Tutortial.md",
-    "Kafka Producer.md",
     "Untitled 1",
     "FullStack",
     "Terraform (코노멘트).pdf",
