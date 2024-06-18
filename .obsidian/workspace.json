@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alarm Service/KaKao Alarm Server.md",
+                "file": "모니터링/Spring Acutator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alarm Service/KaKao Alarm Server.md",
+                "file": "모니터링/Spring Acutator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alarm Service/KaKao Alarm Server.md",
+                "file": "모니터링/Spring Acutator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alarm Service/KaKao Alarm Server.md"
+                "file": "모니터링/Spring Acutator.md"
               }
             }
           }
@@ -148,33 +148,36 @@
   },
   "active": "abb9ea92b478de78",
   "lastOpenFiles": [
+    "Pasted image 20240618011825.png",
+    "Pasted image 20240618011818.png",
+    "Pasted image 20240618011803.png",
+    "Pasted image 20240618011657.png",
+    "Pasted image 20240618011608.png",
+    "Pasted image 20240618011416.png",
     "Alarm Service/Spring Alarm Service 구현.md",
+    "모니터링/Spring Acutator.md",
+    "모니터링/5.25 모니터링 특강.md",
+    "KRaft.md",
+    "Kafka/Kafka Definition.md",
+    "Producer and Message Key.md",
     "Alarm Service/KaKao Alarm Server.md",
+    "모니터링/6.16 TSDB 특강.md",
     "Pasted image 20240617231215.png",
     "Pasted image 20240617231136.png",
     "Pasted image 20240617231106.png",
     "Pasted image 20240617231010.png",
-    "모니터링/6.16 TSDB 특강.md",
-    "모니터링/5.25 모니터링 특강.md",
     "Pasted image 20240616222103.png",
-    "스크린샷 2024-06-16 오후 9.58.19.png",
-    "Pasted image 20240616215802.png",
-    "Pasted image 20240616215623.png",
-    "Pasted image 20240616215603.png",
-    "Pasted image 20240616215448.png",
     "SingSongSangSong/Crawler.md",
     "Untitled 1.md",
     "Alarm Service",
     "TDD/5.23 - TDD.md",
     "Kafka/Dive to Apache Kafka - 06.15.md",
-    "Kafka/Kafka Definition.md",
     "AWS/Cloud Monitoring.md",
     "AWS/Cloud Integration Section.md",
     "AWS/CloudFront.md",
     "AWS",
     "FullStack/Chapters.md",
     "Kafka Topics.md",
-    "Producer and Message Key.md",
     "Consumers.md",
     "Consumer Groups.md",
     "Kafka Brokers.md",
@@ -183,8 +186,6 @@
     "Zookeeper.md",
     "CLI Tutortial.md",
     "Kafka Producer.md",
-    "HTTP/5.23 네트워킹 노트.md",
-    "Git/CodeReview.md",
     "Untitled 1",
     "FullStack",
     "Terraform (코노멘트).pdf",
