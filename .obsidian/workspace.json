@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모니터링/Spring Acutator.md",
+                "file": "모니터링/Kafka - ELK.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모니터링/Spring Acutator.md",
+                "file": "모니터링/Kafka - ELK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모니터링/Spring Acutator.md",
+                "file": "모니터링/Kafka - ELK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모니터링/Spring Acutator.md"
+                "file": "모니터링/Kafka - ELK.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "abb9ea92b478de78",
   "lastOpenFiles": [
+    "모니터링/Spring Acutator.md",
+    "모니터링/Kafka - ELK.md",
     "Pasted image 20240618011825.png",
     "Pasted image 20240618011818.png",
     "Pasted image 20240618011803.png",
@@ -155,7 +157,6 @@
     "Pasted image 20240618011608.png",
     "Pasted image 20240618011416.png",
     "Alarm Service/Spring Alarm Service 구현.md",
-    "모니터링/Spring Acutator.md",
     "모니터링/5.25 모니터링 특강.md",
     "KRaft.md",
     "Kafka/Kafka Definition.md",
@@ -166,7 +167,6 @@
     "Pasted image 20240617231136.png",
     "Pasted image 20240617231106.png",
     "Pasted image 20240617231010.png",
-    "Pasted image 20240616222103.png",
     "SingSongSangSong/Crawler.md",
     "Untitled 1.md",
     "Alarm Service",
