@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모니터링/Kafka - ELK.md",
+                "file": "Terraform/Terraform OpenSource Contributing.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모니터링/Kafka - ELK.md",
+                "file": "Terraform/Terraform OpenSource Contributing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모니터링/Kafka - ELK.md",
+                "file": "Terraform/Terraform OpenSource Contributing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모니터링/Kafka - ELK.md"
+                "file": "Terraform/Terraform OpenSource Contributing.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "abb9ea92b478de78",
   "lastOpenFiles": [
+    "모니터링/Kafka - ELK.md",
+    "Terraform/Terraform OpenSource Contributing.md",
+    "Untitled",
     "Pasted image 20240618210907.png",
     "모니터링/Spring Acutator.md",
-    "모니터링/Kafka - ELK.md",
     "Pasted image 20240618011825.png",
     "Pasted image 20240618011818.png",
     "Pasted image 20240618011803.png",
@@ -168,7 +170,6 @@
     "Pasted image 20240617231215.png",
     "Pasted image 20240617231136.png",
     "Pasted image 20240617231106.png",
-    "Pasted image 20240617231010.png",
     "SingSongSangSong/Crawler.md",
     "Untitled 1.md",
     "Alarm Service",
@@ -194,7 +195,6 @@
     "MultiThread Concurrency",
     "Git",
     "모니터링",
-    "TDD",
     "Untitled.canvas"
   ]
 }
