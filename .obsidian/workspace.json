@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5927ff823ebcb996",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240620225019.png"
+              }
+            }
           }
         ]
       }
@@ -69,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0796ec578f58b945",
@@ -150,17 +159,19 @@
   "active": "abb9ea92b478de78",
   "lastOpenFiles": [
     "Pasted image 20240620225019.png",
-    "모니터링/Kafka - ELK.md",
     "Terraform/Terraform OpenSource Contributing.md",
+    "Pasted image 20240620232020.png",
+    "스크린샷 2024-06-20 오후 11.19.41.png",
+    "Pasted image 20240620231944.png",
+    "Pasted image 20240620231835.png",
+    "Pasted image 20240620231723.png",
+    "Pasted image 20240620231633.png",
+    "Pasted image 20240620231353.png",
+    "모니터링/Kafka - ELK.md",
     "Untitled",
     "Pasted image 20240618210907.png",
     "모니터링/Spring Acutator.md",
     "Pasted image 20240618011825.png",
-    "Pasted image 20240618011818.png",
-    "Pasted image 20240618011803.png",
-    "Pasted image 20240618011657.png",
-    "Pasted image 20240618011608.png",
-    "Pasted image 20240618011416.png",
     "Alarm Service/Spring Alarm Service 구현.md",
     "모니터링/5.25 모니터링 특강.md",
     "KRaft.md",
@@ -168,9 +179,6 @@
     "Producer and Message Key.md",
     "Alarm Service/KaKao Alarm Server.md",
     "모니터링/6.16 TSDB 특강.md",
-    "Pasted image 20240617231215.png",
-    "Pasted image 20240617231136.png",
-    "Pasted image 20240617231106.png",
     "SingSongSangSong/Crawler.md",
     "Untitled 1.md",
     "Alarm Service",
