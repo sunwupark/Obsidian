@@ -110,4 +110,88 @@ NewVPCResourwce,
 테라폼 코어 사용자 입력 - 프로바이더에 전달 - 다시 코어에 전달하는 방식이다
 
 
-데이터소스가 무엇인가??
+```
+func (d *coffeesDataSource) Schema(_ context.Context, _ datasource.SchemaRequest, resp *datasource.SchemaResponse) {
+
+resp.Schema = schema.Schema{
+
+Attributes: map[string]schema.Attribute{
+
+"coffees": schema.ListNestedAttribute{
+
+Computed: true,
+
+NestedObject: schema.NestedAttributeObject{
+
+Attributes: map[string]schema.Attribute{
+
+"id": schema.Int64Attribute{
+
+Computed: true,
+
+},
+
+"name": schema.StringAttribute{
+
+Computed: true,
+
+},
+
+"teaser": schema.StringAttribute{
+
+Computed: true,
+
+},
+
+"description": schema.StringAttribute{
+
+Computed: true,
+
+},
+
+"price": schema.Float64Attribute{
+
+Computed: true,
+
+},
+
+"image": schema.StringAttribute{
+
+Computed: true,
+
+},
+
+"ingredients": schema.ListNestedAttribute{
+
+Computed: true,
+
+NestedObject: schema.NestedAttributeObject{
+
+Attributes: map[string]schema.Attribute{
+
+"id": schema.Int64Attribute{
+
+Computed: true,
+
+},
+
+},
+
+},
+
+},
+
+},
+
+},
+
+},
+
+},
+
+}
+
+}
+```
+
+여기서 Computed가 뭘까?
