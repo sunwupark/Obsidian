@@ -4,7 +4,6 @@
 ```
 cd 03-read-coffees/docker_compose
 docker-compose up -d
-
 ```
 
 2. signup
@@ -15,7 +14,7 @@ ok%                                                                             
 {"UserID":1,"Username":"education","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTkwNTU0NzEsInRva2VuX2lkIjoxLCJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6ImVkdWNhdGlvbiJ9.IECMHzqo6op9yuCSfKYDgYRipgslnYBDLK3SYtecD8g"}
 ```
 
-3. run
+3. Run
 ```
 cd examples/coffees
 terraform plan
@@ -109,3 +108,11 @@ ImportState 인터페이스 메소드를 사용
 
 ![[Pasted image 20240621205654.png]]
 부분 함수 실행
+
+
+구 SDK를 FW로 바꿔보자!
+![[Pasted image 20240621213523.png]]
+
+![[Pasted image 20240621213547.png]]
+여기에 없는 것들을 해보자!!!
+
