@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker 중급 특강.md",
+                "file": "Kafka/Kafka 특강 24.06.22.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0796ec578f58b945",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker 중급 특강.md",
+                "file": "Kafka/Kafka 특강 24.06.22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker 중급 특강.md",
+                "file": "Kafka/Kafka 특강 24.06.22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Docker 중급 특강.md"
+                "file": "Kafka/Kafka 특강 24.06.22.md"
               }
             }
           }
@@ -158,13 +159,15 @@
   },
   "active": "abb9ea92b478de78",
   "lastOpenFiles": [
+    "Terraform/Terraform Provider Hashicups Chapter 3-4.md",
+    "Kafka/Kafka 특강 24.06.22.md",
+    "Pasted image 20240622182830.png",
+    "Docker/Docker 중급 특강.md",
     "Pasted image 20240622130710.png",
     "Pasted image 20240622130701.png",
     "Pasted image 20240622130653.png",
     "테스트 & 웹 성능/웹 성능.md",
-    "Docker/Docker 중급 특강.md",
     "Docker",
-    "Terraform/Terraform Provider Hashicups Chapter 3-4.md",
     "테스트 & 웹 성능",
     "Pasted image 20240621213547.png",
     "Pasted image 20240621213523.png",
@@ -172,8 +175,6 @@
     "Pasted image 20240621205638.png",
     "Pasted image 20240621205343.png",
     "Pasted image 20240621205014.png",
-    "Pasted image 20240621204958.png",
-    "Pasted image 20240621204119.png",
     "Terraform/Terraform OpenSource Contributing.md",
     "모니터링/Kafka - ELK.md",
     "모니터링/Spring Acutator.md",

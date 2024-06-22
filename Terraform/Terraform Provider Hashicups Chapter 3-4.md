@@ -99,6 +99,8 @@ _ resource.ResourceWithConfigure = &orderResource{}
 
 ImportState 인터페이스 메소드를 사용
 어떤것을 기준으로 import? id를 기준으로 Import를 할 수 있다~
+![[Pasted image 20240622182830.png]]
+
 
 ## Chapter 12 - TEST
 ![[Pasted image 20240621205343.png]]
