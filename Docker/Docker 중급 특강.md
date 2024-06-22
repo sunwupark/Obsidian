@@ -128,7 +128,7 @@ docker build . -t myflask:1.5
 ```
 docker run -d -p 8000:5001 -e APP_COLOR=green --name myapp-green myflask
 docker run -d -p 8001:5001 -e APP_COLOR=orange --name myapp-orange myflask
-docker run -d -p 8002:5001 -e APP_COLOR=red --name myapp-red myflask
+docker run -d -p 8002:5001 -e APP_COLOR=red --name myapp-red sunwupark/testing:latest
 ```
 
 4. 화면을 확인한다 각 주소마다 색깔이 달라진다
@@ -139,3 +139,13 @@ docker run -d -p 8002:5001 -e APP_COLOR=red --name myapp-red myflask
 
 nginx -> reverse proxy를 해보자!
 
+
+
+docker run -d -p 80:80 -v /home/ubuntu/SOMA/6.nginx/soma.conf:/etc/nginx/conf.d/default.conf --name myweb nginx
+
+
+sudo systemctl stop nginx
+
+sudo systemctl disable nginx
+
+502 Bad Gateway는 갈곳이 없는 상태인 것이다.
