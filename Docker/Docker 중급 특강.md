@@ -139,13 +139,134 @@ docker run -d -p 8002:5001 -e APP_COLOR=red --name myapp-red sunwupark/testing:l
 
 nginx -> reverse proxy를 해보자!
 
+docker run nginx하면 nginx를 다운받는다
 
+nginx 컨테이너안의 /etc/nginx/con.f/default.conf를 설정하여 리버스 프록시를 할 수 있다
 
-docker run -d -p 80:80 -v /home/ubuntu/SOMA/6.nginx/soma.conf:/etc/nginx/conf.d/default.conf --name myweb nginx
+```
+upstream my-apps {
+server 127.0.0.1:8000;
+server 127.0.0.1:8001 backup;
+}
 
+server{
+listen 80 default_server;
+
+locaiton / {
+proxy_pass http://my-apps;
+}
+}
+```
+
+위와 같은 soma.conf를 작성한다음
+
+```
+docker run -d -p 80:80 -v /home/ubuntu/soma.conf:/etc/nginx/conf.d/default.conf --name myweb nginx
+```
+
+위의 명령어를 입력하여 실행한다 
+
+80포트가 중복이므로 아래의 명령어를 실행
 
 sudo systemctl stop nginx
-
 sudo systemctl disable nginx
 
-502 Bad Gateway는 갈곳이 없는 상태인 것이다.
+하지만 작동하지 않고 502 Bad Gateway가 나오는데 이는 갈곳이 없는 상태인 것이다.
+
+그 이유는 현재 로컬호스트로 등록을 하였는데 이는 nginx내부의 컨테이너를 가리키는 말이기 때문입니다. 고로 아래의 도커 컨테이너의 네트워크 주소인
+
+172.17.0.4
+172.17.0.3
+172.17.0.2
+
+를 입력하여 설정한다면 잘 작동한다
+
+하지만 언제나 매번 ip주소 찾아서 입력하기 싫으니
+
+```
+upstream my-apps {
+        server myapp-green:5001;
+        server myapp-red:5001 backup;
+}
+
+server{
+    listen 80 default_server;
+
+    location / {
+        proxy_pass http://my-apps;
+    }
+```
+
+위와 같이 이름을 등록하고 아래의 명령어로 설정한다
+
+```
+docker run -d -p 80:80 --link myapp-green:myapp-green --link myapp-red:myapp-red -v /home/ubuntu/soma.conf:/etc/nginx/conf.d/default.conf  --name myweb nginx
+```
+
+하지만 명령어가 너무 기니깐 이제는 docker-compose를 만들어서 작성하자
+
+```
+version: "3.0"
+
+services:
+
+web:
+
+was:
+
+db:
+
+volumes:
+# 위의 컨테이너에서 사용할 볼륨을 만들어준다
+
+networks:
+# 위의 컨테이너에서 사용할 네트워크를 만들어준다
+```
+
+위와 같은 형식으로 작성할 수 있다
+
+```
+version: "3.0"
+
+services:
+  my-web:
+    image: nginx:latest
+    ports:
+    - 80:80
+    volumes:
+    - /home/ubuntu/soma.conf:/etc/nginx/conf.d/default.conf
+    ## links:
+    ## 선언을 안해도 자동적으로 도커 컴포즈는 연결을 해준다!
+    ## - "myapp-green:myapp-green"
+
+  myapp-green:
+    image: sunwupark/testing:latest
+    environment:
+      - APP_COLOR=green
+    ports:
+      - 8001:5001
+
+  myapp-orange:
+    image: sunwupark/testing:latest
+    environment:
+      - APP_COLOR=orange
+    ports:
+      - 8002:5001
+
+
+  myapp-red:
+    image: sunwupark/testing:latest
+    environment:
+      - APP_COLOR=red
+    ports:
+      - 8003:5001
+```
+
+위와 같이 도커 컴포즈를 만들 수 있다
+
+docker-compose up : 새롭게 만들어서 실행
+docker-compose down: 종료 및 폐기함 (rm -f)
+docker-compose stop: 멈춤 (docker stop)
+docker-compose start: 재시작 (docker start)
+docker-compose up -d
+
