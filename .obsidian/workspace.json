@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "테스트 & 웹 성능/웹 성능.md",
+                "file": "Docker/Docker 중급 특강.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "테스트 & 웹 성능/웹 성능.md",
+                "file": "Docker/Docker 중급 특강.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "테스트 & 웹 성능/웹 성능.md",
+                "file": "Docker/Docker 중급 특강.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "테스트 & 웹 성능/웹 성능.md"
+                "file": "Docker/Docker 중급 특강.md"
               }
             }
           }
@@ -158,8 +158,10 @@
   },
   "active": "abb9ea92b478de78",
   "lastOpenFiles": [
-    "Terraform/Terraform Provider Hashicups Chapter 3-4.md",
     "테스트 & 웹 성능/웹 성능.md",
+    "Docker/Docker 중급 특강.md",
+    "Docker",
+    "Terraform/Terraform Provider Hashicups Chapter 3-4.md",
     "테스트 & 웹 성능",
     "Pasted image 20240621213547.png",
     "Pasted image 20240621213523.png",
@@ -196,14 +198,12 @@
     "Consumer Groups.md",
     "Kafka Brokers.md",
     "Topic Replication.md",
-    "Producer Acknowledgements.md",
     "Untitled 1",
     "FullStack",
     "Terraform (코노멘트).pdf",
     "Terraform",
     "MultiThread Concurrency",
     "Git",
-    "모니터링",
     "Untitled.canvas"
   ]
 }
