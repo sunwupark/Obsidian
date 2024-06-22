@@ -68,4 +68,74 @@ ap install, bash, ping 아무것도 없다
 일반적으로 slim을 사용한다
 - Debian 계열로 만들어진 가장 경량화된 놈이다!
 - apt, bash 있다!
-- 
+
+## 실습
+
+간단한 서버를 띄워보자
+```
+import os
+from flask import Flask, render_template
+from werkzeug.middleware.proxy_fix import ProxyFix
+
+app = Flask(__name__)
+app.wsgi_app = ProxyFix(app.wsgi_app, x_proto=1, x_host=1)
+
+color = os.environ.get('APP_COLOR')
+
+@app.route('/')
+def main():
+	return render_template('hello.html', color=color)
+
+if __name__ == "__main__":
+	app.run(host='0.0.0.0', port=5001)
+```
+
+Dockerfile
+```
+FROM python:3.8-slim
+
+WORKDIR /app
+COPY . /app
+
+RUN pip install -r requirements.txt
+ENTRYPOINT ["python", "app.py"]
+EXPOSE 5001
+```
+
+index.html
+```
+<!DOCTYPE html>
+<title>Hello Flask</title>
+<body style="background: {{color}}">
+<div style="text-align: center;">
+<h1>Hello, World!</h1>
+</div>
+</body>
+</html>
+```
+
+1. 위의 프로젝트를 빌드한다
+```
+docker build . -t myflask:1.5
+```
+
+2. latest 태그로 설정한다
+```
+ docker tag myflask:1.5 myflask:latest
+```
+
+3. 색깔을 바꿔주며 실행한다
+```
+docker run -d -p 8000:5001 -e APP_COLOR=green --name myapp-green myflask
+docker run -d -p 8001:5001 -e APP_COLOR=orange --name myapp-orange myflask
+docker run -d -p 8002:5001 -e APP_COLOR=red --name myapp-red myflask
+```
+
+4. 화면을 확인한다 각 주소마다 색깔이 달라진다
+![[Pasted image 20240622130653.png]]
+![[Pasted image 20240622130701.png]]
+![[Pasted image 20240622130710.png]]
+
+
+nginx -> reverse proxy를 해보자!
+
