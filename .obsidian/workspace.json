@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terraform/Terraform Provider에 Resource 추가하기.md",
+                "file": "Terraform/Terraform Provider Hashicups Chapter 3-4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd13513eef53ce84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terraform/Terraform OpenSource Contributing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terraform/Terraform Provider에 Resource 추가하기.md",
+                "file": "Terraform/Terraform Provider Hashicups Chapter 3-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terraform/Terraform Provider에 Resource 추가하기.md",
+                "file": "Terraform/Terraform Provider Hashicups Chapter 3-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terraform/Terraform Provider에 Resource 추가하기.md"
+                "file": "Terraform/Terraform Provider Hashicups Chapter 3-4.md"
               }
             }
           }
@@ -148,49 +160,49 @@
   },
   "active": "02b8e5af7f18b6ad",
   "lastOpenFiles": [
-    "Terraform/Terraform 멘토링.md",
-    "Terraform/Terraform OpenSource Contributing.md",
+    "Terraform/Terraform에 Resource 추가하기 - 1.md",
+    "Terraform/Terraform에 Resource 추가하기 - 2.md",
     "Terraform/Terraform Provider Hashicups Chapter 3-4.md",
+    "Terraform/Terraform OpenSource Contributing.md",
+    "Terraform/Terraform 멘토링.md",
+    "Terraform/Terraform (코노멘트).pdf",
+    "DeepDiveComparison/Methods.md",
+    "gRPC.md",
+    "Load Balancing vs Reverse Proxy.md",
+    "1000만 사용자를 위한 AWS/Load Balancer.md",
+    "Kafka/Kafka Producer.md",
+    "Kafka/Kafka Brokers.md",
+    "DeepDiveComparison/Java Garbage Collection.md",
+    "Operating System/IPC.md",
+    "DeepDiveComparison/Go Modules.md",
+    "Go Memory Management.md",
+    "Go 언어는 컴파일러의 escape 분석 성능.md",
+    "DeepDiveComparison/Functions.md",
+    "DeepDiveComparison/ESCAPE 분석.md",
+    "Eden.md",
+    "device driver.md",
+    "Database Federation?.md",
+    "Kafka/CLI Tutortial.md",
+    "스택 분할.md",
+    "인증서를.md",
+    "스택 복사.md",
+    "1000만 사용자를 위한 AWS/AWS Service.md",
+    "Pasted image 20240623214044.png",
+    "Pasted image 20240623213948.png",
+    "Pasted image 20240623213922.png",
+    "Pasted image 20240623213636.png",
+    "Pasted image 20240623213507.png",
+    "Pasted image 20240623211646.png",
+    "Pasted image 20240623202949.png",
+    "Pasted image 20240623201546.png",
     "스크린샷 2024-05-19 오전 2.40.12.png",
-    "Terraform/Terraform Provider에 Resource 추가하기.md",
     "Pasted image 20240620225019.png",
-    "Kafka/Kafka 특강 24.06.22.md",
-    "Pasted image 20240622190206.png",
-    "Pasted image 20240622190100.png",
-    "Pasted image 20240622182830.png",
-    "Docker/Docker 중급 특강.md",
-    "Pasted image 20240622130710.png",
-    "Pasted image 20240622130701.png",
-    "Pasted image 20240622130653.png",
-    "테스트 & 웹 성능/웹 성능.md",
     "Docker",
     "테스트 & 웹 성능",
-    "Pasted image 20240621213547.png",
-    "Pasted image 20240621213523.png",
-    "모니터링/Kafka - ELK.md",
-    "모니터링/Spring Acutator.md",
-    "Alarm Service/Spring Alarm Service 구현.md",
-    "모니터링/5.25 모니터링 특강.md",
-    "KRaft.md",
-    "Kafka/Kafka Definition.md",
-    "Producer and Message Key.md",
-    "Alarm Service/KaKao Alarm Server.md",
-    "모니터링/6.16 TSDB 특강.md",
-    "SingSongSangSong/Crawler.md",
-    "Untitled 1.md",
     "Alarm Service",
-    "TDD/5.23 - TDD.md",
-    "Kafka/Dive to Apache Kafka - 06.15.md",
-    "AWS/Cloud Monitoring.md",
-    "AWS/Cloud Integration Section.md",
-    "AWS/CloudFront.md",
     "AWS",
-    "FullStack/Chapters.md",
-    "Kafka Topics.md",
-    "Consumers.md",
     "Untitled 1",
     "FullStack",
-    "Terraform (코노멘트).pdf",
     "Terraform",
     "MultiThread Concurrency",
     "Git",
