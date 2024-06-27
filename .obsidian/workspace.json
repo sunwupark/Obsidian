@@ -11,9 +11,11 @@
             "id": "c57de422ef3b50ca",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "OOP/OOP 개발.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0796ec578f58b945",
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OOP/OOP 개발.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OOP/OOP 개발.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OOP/OOP 개발.md"
+              }
             }
           }
         ]
@@ -143,6 +150,8 @@
   },
   "active": "c57de422ef3b50ca",
   "lastOpenFiles": [
+    "OOP/OOP 개발.md",
+    "OOP",
     "Docker/Docker 중급 특강.md",
     "Terraform/Terraform에 Resource 추가하기 - 2.md",
     "Pasted image 20240623214044.png",
@@ -187,7 +196,6 @@
     "FullStack",
     "Terraform",
     "MultiThread Concurrency",
-    "Git",
     "Untitled.canvas"
   ]
 }
